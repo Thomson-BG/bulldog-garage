@@ -98,7 +98,7 @@ All 85+ quizzes are working. No student setup needed — they click and take the
 
 ## Videos — How They Stream
 
-`player.html` detects when a video URL points to a local path (`videos/...`). It rewrites it to your R2 public URL. Update the URL with your R2 bucket's public endpoint (see `DEPLOYMENT.md`).
+`player.html` detects any relative media path and rewrites it to your R2 public URL. Update the URL with your R2 bucket's public endpoint (see `DEPLOYMENT.md`).
 
 Videos stream from R2's global CDN with zero cost. Unlimited downloads, no egress charges.
 

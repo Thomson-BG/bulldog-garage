@@ -53,13 +53,12 @@
   document.getElementById('vt').textContent = t.replace(/[_-]+/g,' ');
   document.title = t + ' · Bulldog Garage';
   if(v) {
-    // If v is a local path (videos/...), redirect to R2
-    if(v.startsWith('videos/')) {
-      // Replace 'videos/' with your R2 public URL
-      // Example: https://pub-xxxxx.r2.dev/videos/
-      v = 'https://pub-16dff7a1189e42628c63b5f376187e78.r2.dev/' + v;
+    // Route any relative media path through R2.
+    if(!/^[a-z][a-z0-9+.-]*:/i.test(v) && !v.startsWith('//')) {
+      var base = 'https://pub-16dff7a1189e42628c63b5f376187e78.r2.dev';
+      v = base.replace(/\/$/, '') + '/' + v.replace(/^\/+/, '');
     }
-    document.getElementById('vid').src = v;
+    document.getElementById('vid').src = encodeURI(v);
   }
 })();
 </script></div>

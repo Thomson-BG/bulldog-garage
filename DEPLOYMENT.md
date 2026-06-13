@@ -42,9 +42,8 @@ The 141 training videos (2.9 GB) live in Cloudflare R2 for zero-cost unlimited s
 
 4. **Update player.html in Vercel**
    - In the repo, edit `player.html`
-   - Find this line: `v = 'https://YOUR_R2_PUBLIC_URL/' + v;`
-   - Replace `YOUR_R2_PUBLIC_URL` with the public URL you copied (without the trailing slash)
-   - Example: `v = 'https://pub-abc123def456.r2.dev/videos/' + v;`
+   - The player rewrites any relative media path to your R2 public URL
+   - Replace the placeholder public URL in `player.html` with the one you copied (without the trailing slash)
    - Commit and push. Vercel redeploys automatically.
 
 That's it. Videos now stream from R2 at zero cost, no matter how many students watch them.
