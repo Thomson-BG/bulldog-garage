@@ -1,0 +1,3000 @@
+div.c {
+	border-top-color: rgb(204, 204, 204); -ms-word-wrap: break-word;
+}
+div.m {
+	position: relative;
+}
+div.c .credit {
+	background: rgba(0, 0, 0, 0.8); padding: 2px 5px; right: 0px; bottom: 0px; color: rgb(255, 255, 255); position: absolute;
+}
+div.c .m-l .credit {
+	right: 0px; bottom: 0px;
+}
+.c-foot {
+	padding: 0px 0px 8px;
+}
+.title .c-item {
+	margin: 0px 0px 16px;
+}
+.title h1 {
+	padding: 0px 0px 8px; color: rgb(0, 0, 0); letter-spacing: -0.02em; font-size: 24px; font-weight: normal; border-bottom-color: currentColor; border-bottom-width: 0px; border-bottom-style: none;
+}
+#section-branding .doc-info {
+	margin: 0px 0px 16px; padding: 0px; border-top-color: currentColor; border-top-width: 0px; border-top-style: none; -ms-zoom: 1;
+}
+.section-branding .doc-info {
+	margin: 0px 0px 16px; padding: 0px; border-top-color: currentColor; border-top-width: 0px; border-top-style: none; -ms-zoom: 1;
+}
+#section-branding .doc-info h1 {
+	font: bold 26px/normal arial; font-size-adjust: none; font-stretch: normal;
+}
+.section-branding .doc-info h1 {
+	font: bold 26px/normal arial; font-size-adjust: none; font-stretch: normal;
+}
+#section-branding h1 {
+	font-size: 24px;
+}
+.section-branding h1 {
+	font-size: 24px;
+}
+#section-branding .doc-info .like-btn {
+	margin: 4px 0px 0px; float: left;
+}
+#nav-sub li.active a {
+	background: rgb(24, 58, 82);
+}
+#nav-sub-2 {
+	margin: -8px 0px 0px;
+}
+#nav-sub-2 li {
+	background: rgb(244, 244, 244); margin: 0px; padding: 6px 0px 6px 8px; font-size: 11px; border-right-color: rgb(215, 215, 215); border-bottom-color: rgb(215, 215, 215); border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid;
+}
+#nav-sub-3 li {
+	background: rgb(244, 244, 244); margin: 0px; padding: 6px 0px 6px 8px; font-size: 11px; border-right-color: rgb(215, 215, 215); border-bottom-color: rgb(215, 215, 215); border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid;
+}
+#nav-sub-2 li:hover {
+	background: url("https://www.cte-auto.net/static/v/all/img/bg-btn-12.gif") no-repeat 165px 9px rgb(255, 255, 255);
+}
+#nav-sub-3 li:hover {
+	background: url("https://www.cte-auto.net/static/v/all/img/bg-btn-12.gif") no-repeat 165px 9px rgb(255, 255, 255);
+}
+#nav-sub-2 li a {
+	display: block;
+}
+#nav-sub-3 li a {
+	display: block;
+}
+#nav-sub-2 li.active {
+	background: url("https://www.cte-auto.net/static/v/all/img/bg-btn-12.gif") no-repeat 165px 9px rgb(255, 255, 255); border-right-color: rgb(255, 255, 255); border-right-width: 1px; border-right-style: solid;
+}
+#nav-sub-3 li.active {
+	background: url("https://www.cte-auto.net/static/v/all/img/bg-btn-12.gif") no-repeat 165px 9px rgb(255, 255, 255); border-right-color: rgb(255, 255, 255); border-right-width: 1px; border-right-style: solid;
+}
+#nav-sub-2 li a:hover {
+	color: rgb(24, 58, 82); text-decoration: none;
+}
+#nav-sub-3 li a:hover {
+	color: rgb(24, 58, 82); text-decoration: none;
+}
+#nav-sub-3 {
+	margin: -16px 0px 0px;
+}
+#nav-sub {
+	background: 0px; margin: 0px 0px 24px; border: 0px currentColor; border-image: none; clear: both;
+}
+#nav-sub ul {
+	background: 0px; margin: 0px; font-size: 0px;
+}
+#nav-sub li {
+	background: 0px; margin: 0px; padding-left: 27px; vertical-align: top; display: inline-block;
+}
+#nav-sub li:first-child {
+	padding-left: 0px;
+}
+#nav-sub li:first-child a {
+	padding-left: 0px;
+}
+#nav-sub li.dv-item a {
+	color: rgb(110, 131, 146); font-family: arial,sans-serif; font-size: 12px; font-weight: bold;
+}
+#nav-sub li.dv-item a:hover {
+	color: rgb(24, 58, 82); text-decoration: none;
+}
+#nav-sub li.active {
+	background: 0px; border: 0px currentColor; border-image: none;
+}
+#nav-sub li.active a {
+	background: rgb(110, 131, 146); padding: 4px 10px; border-radius: 3px; color: rgb(255, 255, 255); margin-top: 4px; display: block; -moz-border-radius: 3px; -webkit-border-radius: 3px;
+}
+#nav-sub li.active a:hover {
+	background: rgb(110, 131, 146); color: rgb(255, 255, 255); text-decoration: none;
+}
+#nav-sub li a:hover {
+	background: 0px;
+}
+.more-btn p {
+	color: rgb(102, 102, 102); float: left;
+}
+.more-btn a {
+	float: right;
+}
+.c .c-item .load-more .more-btn {
+	padding-bottom: 8px; margin-bottom: 0px;
+}
+#section-content .c-var-39 div.dv-feature .more-btn a.btn-smll {
+	float: right; position: inherit;
+}
+.dv-list .dv-item {
+	font-size: 12px;
+}
+.dv-list-1 h3 {
+	margin: 0px 0px 12px; color: rgb(153, 153, 153); text-transform: uppercase; font-size: 11px;
+}
+.dv-list-1 ul {
+	margin: 0px 0px 0px -12px;
+}
+div.c .dv-list-1 .dv-item {
+	background: url("https://www.cte-auto.net/static/v/fn2/img/red-bullet.gif") no-repeat 0px 4px; margin: 0px 0px 10px 12px; padding: 0px 0px 0px 8px; width: 82px; font-size: 12px; font-weight: bold; vertical-align: top; display: inline-block;
+}
+div.c .dv-list-1 .dv-item-last {
+	background: url("https://www.cte-auto.net/static/v/fn2/img/red-bullet.gif") no-repeat 0px 4px; margin: 0px 0px 10px 12px; padding: 0px 0px 0px 8px; width: 82px; font-size: 12px; font-weight: bold; vertical-align: top; display: inline-block;
+}
+div.c .dv-list-1-1 .dv-item {
+	width: 126px;
+}
+.dv-list-2 .dv-item {
+	margin: 0px 0px 8px; padding: 8px 0px 0px; font-size: 12px; border-top-color: rgb(221, 221, 221); border-top-width: 1px; border-top-style: solid;
+}
+.dv-list-2 .dv-item-first {
+	border: 0px currentColor; border-image: none;
+}
+.dv-list-2 .dv-item a {
+	font-weight: bold;
+}
+.dv-list-4 .dv-encap {
+	margin: 0px 0px 10px; width: 35%; padding-left: 35px; float: left; list-style-position: outside; list-style-image: url("https://www.cte-auto.net/static/v/fn2/img/blue-bullet.gif"); z-index: 1;
+}
+.dv-list-4 .dv-item {
+	margin: 0px 0px 4px; padding: 0px;
+}
+.dv-list-4 .dv-item a {
+	font-weight: bold;
+}
+.dv-list-5 .dv-item {
+	margin: 0px 0px 8px; padding: 8px 0px 0px; font-weight: bold; border-top-color: rgb(204, 204, 204); border-top-width: 1px; border-top-style: solid;
+}
+.dv-list-5 .dv-item-first {
+	padding: 0px; border: 0px currentColor; border-image: none;
+}
+.dv-list-6 .dv-encap {
+	margin: 0px 12px 0px 0px; float: left;
+}
+.dv-list-6 .dv-item {
+	background: url("https://www.cte-auto.net/static/v/fn2/img/marker-square.gif") no-repeat 0px 4px; margin: 0px 0px 4px; padding: 0px 0px 0px 10px; border: 0px currentColor; border-image: none; font-weight: bold;
+}
+.dv-list-7 .dv-item {
+	background: url("https://www.cte-auto.net/static/v/fn2/img/blue-bullet.gif") no-repeat 0px 5px; margin: 0px 0px 8px; padding: 0px 0px 8px 10px; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: solid;
+}
+div.dv-list-7 .dv-item-last {
+	margin: 0px 0px 8px; border: 0px currentColor; border-image: none;
+}
+.dv-list-7 .dv-item a {
+	font-size: 13px;
+}
+.dv-list-9 .dv-item {
+	margin: 0px 0px 8px; padding: 8px 0px 0px; font-weight: bold; border-top-color: rgb(204, 204, 204); border-top-width: 1px; border-top-style: solid;
+}
+.dv-list-9 .dv-item-first {
+	padding: 0px; border: 0px currentColor; border-image: none;
+}
+.dv-list-9 .dv-item-last {
+	padding: 8px 0px 0px;
+}
+.dv-list-10 h2 {
+	display: none;
+}
+div.dv-list-10 .dv-item {
+	background: url("https://www.cte-auto.net/static/v/fn2/img/red-bullet.gif") no-repeat 0px 4px; margin: 0px 0px 6px; font-size: 11px; font-weight: bold;
+}
+.dv-list-11 .dv-encap {
+	width: 156px; float: left;
+}
+.dv-list-11 .dv-encap .dv-item {
+	margin: 0px 0px 4px; color: rgb(102, 102, 102); padding-left: 0px; font-size: 11px;
+}
+.dv-list-11 .dv-encap .dv-item span {
+	color: rgb(102, 153, 0);
+}
+.dv-list-11 .dv-encap .dv-item a {
+	font-weight: normal;
+}
+.dv-list-12 {
+	margin: 0px; padding: 0px 0px 8px; border: 0px currentColor; border-image: none; clear: both;
+}
+.dv-list-12 .dv-item {
+	background: url("https://www.cte-auto.net/static/v/fn2/img/bg-marker-1.gif") no-repeat right 10px; margin: 0px 12px; padding: 12px 0px; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.dv-list-12 .dv-encap .dv-item-last {
+	margin: 0px 12px; padding: 12px 0px; border: 0px currentColor; border-image: none;
+}
+.dv-list-12 .dv-item a {
+	color: rgb(24, 58, 82); font-size: 11px; font-weight: bold; display: block;
+}
+.dv-list-12 .dv-item a:hover {
+	text-decoration: underline;
+}
+.dv-list-12 .dv-encap {
+	background: rgb(244, 244, 244); margin: 0px;
+}
+div.c .dv-list-13 {
+	background: rgb(244, 244, 244); margin: -4px 0px 0px;
+}
+div.c .dv-list-13 .dv-encap {
+	padding: 13px 0px 10px 16px; width: 130px; float: left;
+}
+div.c .dv-list-13 .dv-item {
+	background: url("https://www.cte-auto.net/static/v/all/img/bg-marker-1.gif") no-repeat 0px 4px; margin: 0px; padding: 0px 0px 6px 10px; font-size: 11px;
+}
+div.c .dv-list-13 .dv-item a {
+	font-weight: bold;
+}
+.dv-list-14 {
+	background: rgb(229, 237, 240); margin: -4px 0px 0px; padding: 16px 12px 8px;
+}
+.dv-list-14 .dv-item {
+	background: url("https://www.cte-auto.net/static/v/all/img/bg-marker-1.gif") no-repeat 0px 4px; margin: 0px; padding: 0px 0px 10px 10px; font-size: 11px;
+}
+.dv-list-14 .dv-item a {
+	font-weight: bold;
+}
+.dv-list-15 .dv-encap .dv-item {
+	margin: 0px 0px 8px; padding: 8px 0px 0px; color: rgb(102, 102, 102); font-size: 11px; border-top-color: rgb(221, 221, 221); border-top-width: 1px; border-top-style: solid;
+}
+.dv-list-15 .dv-encap .dv-item-first {
+	border: 0px currentColor; border-image: none;
+}
+.dv-list-15 .dv-encap .dv-item p {
+	padding: 0px 0px 6px;
+}
+.dv-list-15 .dv-encap .dv-item p span {
+	color: rgb(102, 153, 0);
+}
+.dv-list-15 .dv-encap .dv-item h3 {
+	padding: 0px 0px 6px;
+}
+.dv-list-15 .dv-encap .dv-item a {
+	padding: 0px 0px 6px; font-weight: bold;
+}
+.dv-list-15 .dv-encap .dv-item .entry-info p {
+	color: rgb(153, 153, 153); font-size: 11px;
+}
+.dv-list-15 .dv-encap .dv-item .entry-info p span {
+	color: rgb(153, 153, 153); font-style: italic;
+}
+div.dv-list-18 .dv-encap {
+	width: 100px; padding-top: 4px; padding-left: 8px; float: left;
+}
+div.dv-list-18 .dv-encap .dv-item {
+	background: url("https://www.cte-auto.net/static/v/all/img/bg-marker-1.gif") no-repeat 0px 5px; margin: 0px 0px 6px; font-size: 11px;
+}
+div.dv-list-18 .dv-encap .dv-item a {
+	padding: 0px 0px 0px 3px; font-size: 11px; font-weight: bold;
+}
+div.dv-list-18 :first-child.dv-encap {
+	padding: 0px 0px 0px 20px;
+}
+div.c .dv-list-20 {
+	background: rgb(255, 255, 255);
+}
+div.c .dv-list-20 .dv-encap {
+	padding: 0px 0px 10px; width: 156px; float: left;
+}
+div.c .dv-list-20 .dv-item {
+	background: url("https://www.cte-auto.net/static/v/all/img/bg-marker-1.gif") no-repeat 0px 4px; margin: 0px; padding: 0px 0px 6px; font-size: 11px;
+}
+div.c .dv-list-20 .dv-item a {
+	font-weight: bold;
+}
+.dv-feature h3 {
+	letter-spacing: 0px; font-size: 12px;
+}
+.dv-feature .summary {
+	line-height: 18px; font-size: 13px; font-weight: normal;
+}
+div.dv-feature .related li {
+	background: url("https://www.cte-auto.net/static/v/fn2/img/blue-bullet.gif") no-repeat 0px 4px;
+}
+div.dv-feature-1 .dv-encap {
+	margin-left: 0px;
+}
+.c div.dv-feature-1 .dv-item {
+	margin: 0px 0px 8px; padding: 13px 0px 0px; width: auto; border-top-color: rgb(204, 204, 204); border-top-width: 1px; border-top-style: solid; display: block;
+}
+.c div.dv-feature-1 .dv-item-first {
+	padding: 8px 0px 0px; border: 0px currentColor; border-image: none;
+}
+.c div.dv-feature-1 .dv-item h3 a {
+	font-size: 18px;
+}
+.c div.dv-feature-1 .summary {
+	color: rgb(0, 0, 0);
+}
+.c div.dv-feature-1 .summary p {
+	color: rgb(0, 0, 0);
+}
+.dv-feature-2 .summary {
+	padding: 0px; font-weight: normal;
+}
+.dv-feature-2 .summary p {
+	padding: 0px 0px 8px;
+}
+.c div.dv-feature-2 {
+	background: rgb(255, 255, 255); margin: -8px 0px 0px; padding: 8px 0px 0px;
+}
+.dv-feature-5 h3 {
+	font-size: 16px;
+}
+.dv-feature-5 .summary {
+	overflow: hidden; font-size: 12px;
+}
+.dv-feature-5 .summary p {
+	color: rgb(0, 0, 0);
+}
+div.dv-feature-5 .dv-item {
+	padding: 16px 0px 0px;
+}
+div.dv-feature-5 .dv-item-first {
+	padding: 0px;
+}
+div.dv-feature-9 {
+	position: relative;
+}
+div.dv-feature-9 .dv-encap {
+	margin: 0px;
+}
+div.dv-feature-9 .dv-item {
+	padding: 0px; border: 0px currentColor; border-image: none; position: relative;
+}
+div.dv-feature-9 .dv-item:hover .summary-overlay {
+	background-color: rgb(0, 0, 0);
+}
+div.dv-feature-9 .dv-item .summary-overlay {
+	background: rgba(0, 0, 0, 0.8); padding: 6px 0px; left: 0px; width: 100%; bottom: 0px; border-top-color: rgb(204, 204, 204); border-top-width: 2px; border-top-style: solid; display: block; position: absolute;
+}
+div.dv-feature-9 .dv-item .summary-overlay:hover {
+	background-color: rgb(0, 0, 0);
+}
+div.dv-feature-9 .dv-item .summary-overlay a {
+	padding: 0px 0px 0px 9px; color: rgb(255, 255, 255); letter-spacing: -0.02em; font-size: 12px; font-weight: bold; display: block;
+}
+div.dv-feature-9 .dv-item .summary-overlay a:hover {
+	color: rgb(255, 255, 255); text-decoration: none;
+}
+div.dv-feature-9 .dv-item .summary-overlay p {
+	padding: 4px 10px 0px; color: rgb(255, 255, 255); font-size: 11px; display: block;
+}
+div.dv-feature-9 .dv-item .m {
+	padding: 0px;
+}
+.dv-feature-9 .summary {
+	display: none;
+}
+.dv-feature-9 h3 {
+	display: none;
+}
+div.dv-feature-11 .dv-item {
+	padding: 0px; border: 0px currentColor; border-image: none; width: 144px; float: left;
+}
+div.dv-feature-11 .dv-item-first {
+	margin: 0px 12px 0px 0px;
+}
+div.dv-feature-11 h3 {
+	padding: 0px 0px 4px;
+}
+div.dv-feature-11 .dv-item a {
+	position: relative;
+}
+.dv-feature-12 .dv-item h3 {
+	margin: 0px 8px 0px 0px; padding: 0px; color: rgb(0, 0, 0); font-size: 18px; font-weight: normal; display: inline;
+}
+.dv-feature-12 .dv-item .summary p {
+	padding: 0px 0px 5px; color: rgb(0, 0, 0); font-size: 11px;
+}
+.dv-feature-12 .dv-item .like-button {
+	top: 4px; display: inline; position: relative;
+}
+.dv-feature-17 .m {
+	padding: 0px 0px 12px;
+}
+.dv-feature-17 .dv-item .summary p {
+	color: rgb(0, 0, 0); line-height: 18px; font-size: 13px;
+}
+.dv-feature-17 .dv-item h3 {
+	line-height: 1.1;
+}
+.dv-feature-17 .dv-item h3 a {
+	font-size: 24px;
+}
+div.dv-feature-17 p.date {
+	padding: 0px 0px 8px; font-size: 11px;
+}
+.dv-feature-30 h3 {
+	font-size: 15px;
+}
+div.dv-feature-30 .summary {
+	padding: 0px 0px 4px;
+}
+div.dv-feature-37 {
+	position: relative;
+}
+div.dv-feature-37 .dv-encap {
+	margin: 0px;
+}
+div.dv-feature-37 .dv-item {
+	padding: 0px; border: 0px currentColor; border-image: none; position: relative;
+}
+div.dv-feature-37 .dv-item:hover .summary-overlay {
+	background-color: rgb(0, 0, 0);
+}
+div.dv-feature-37 .dv-item .summary-overlay {
+	background: rgba(0, 0, 0, 0.8); padding: 6px 0px; left: 0px; width: 100%; bottom: 0px; border-top-color: rgb(204, 204, 204); border-top-width: 2px; border-top-style: solid; display: block; position: absolute;
+}
+div.dv-feature-37 .dv-item .summary-overlay:hover {
+	background-color: rgb(0, 0, 0);
+}
+div.dv-feature-37 .dv-item .summary-overlay a {
+	padding: 0px 0px 0px 9px; color: rgb(255, 255, 255); letter-spacing: -0.02em; font-size: 12px; font-weight: bold; display: block;
+}
+div.dv-feature-37 .dv-item .summary-overlay a:hover {
+	color: rgb(255, 255, 255); text-decoration: none;
+}
+div.dv-feature-37 .dv-item .summary-overlay p {
+	padding: 4px 9px 0px; color: rgb(255, 255, 255); font-size: 11px; display: block;
+}
+div.dv-feature-37 .dv-item .m {
+	padding: 0px;
+}
+.dv-feature-37 .summary {
+	padding: 5px 0px;
+}
+.dv-feature-37 h3 {
+	padding: 5px 0px;
+}
+div.dv-feature-38 .dv-item .summary p {
+	color: rgb(0, 0, 0); font-size: 12px;
+}
+div.dv-feature-38 .dv-item h3 {
+	line-height: 1.1;
+}
+div.dv-feature-38 .dv-item h3 a {
+	font-size: 24px;
+}
+div.dv-feature-38 p.date {
+	padding: 0px; font-size: 11px;
+}
+div.dv-feature-38 .c-item-last {
+	margin: 0px;
+}
+div.dv-feature-41 {
+	background: rgb(229, 237, 240); margin: 0px 0px 22px; padding: 25px 12px 12px; border-top-color: rgb(24, 59, 81); border-top-width: 2px; border-top-style: solid; position: relative;
+}
+div.dv-feature-41 h2 {
+	background: rgb(255, 255, 255); padding: 5px 10px; border: 1px solid rgb(202, 216, 225); border-image: none; top: -13px; color: rgb(24, 58, 85); text-transform: uppercase; font-size: 11px; font-weight: bold; position: absolute;
+}
+div.dv-feature-41 .dv-item {
+	padding: 0px;
+}
+div.dv-feature-41 .dv-list-24 {
+	padding: 10px 0px 0px; border-top-color: rgb(204, 204, 204); border-top-width: 1px; border-top-style: solid;
+}
+.m-date img {
+	padding: 8px 0px 0px;
+}
+div.c-mod-1 {
+	margin: 0px 0px 16px; padding: 0px; border: 1px solid rgb(204, 204, 204); border-image: none;
+}
+div.c-mod-1 .c-body {
+	padding: 0px 12px;
+}
+div.c-mod-2 .c-item-last {
+	padding: 0px; border: 0px currentColor; border-image: none;
+}
+.c-mod {
+	margin: 0px 0px 16px; position: relative;
+}
+.c-mod-4 {
+	margin: 0px auto 16px; position: relative;
+}
+.c-mod-4 .c-item {
+	margin: 0px; padding: 0px 12px; border-top-color: currentColor; border-right-color: rgb(204, 204, 204); border-left-color: rgb(204, 204, 204); border-top-width: 0px; border-right-width: 1px; border-left-width: 1px; border-top-style: none; border-right-style: solid; border-left-style: solid;
+}
+.c-mod-4 .c-item-first {
+	padding: 8px 12px 0px; border-top-color: rgb(204, 204, 204); border-top-width: 1px; border-top-style: solid;
+}
+.c-mod-4 .dv-item a {
+	font-size: 11px;
+}
+.c-mod-4 .dv-item h3 {
+	font-size: 11px;
+}
+.c-mod-4 .dv-item .summary {
+	font-size: 11px;
+}
+.c-mod-4 .dv-list-5 .dv-item-last {
+	border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.c-mod-4 .dv-feature-11 .dv-item {
+	margin: 0px; padding: 12px 0px 0px; width: 100%; border-top-color: rgb(204, 204, 204); border-top-width: 1px; border-top-style: solid;
+}
+.c-mod-4 .dv-feature-11 .dv-item-first {
+	border: 0px currentColor; border-image: none;
+}
+.c-mod-4 .dv-feature-11 .dv-item .m {
+	padding: 0px 12px 12px 0px;
+}
+.c-mod-4 .c-foot {
+	border-width: 0px 1px 1px; border-style: none solid solid; border-color: currentColor rgb(204, 204, 204) rgb(204, 204, 204); border-image: none;
+}
+.c-mod-4 .external {
+	top: 6px; right: 0px; font-size: 11px; font-weight: bold; position: absolute;
+}
+.c-mod-4 .external span {
+	color: rgb(187, 0, 0);
+}
+div.c-mod-6 .c-item .dv-item .m {
+	padding-bottom: 8px;
+}
+div.c-mod-6 .c-item-first li.dv-item-last {
+	margin: 0px;
+}
+div.c-mod-6 .c-item-last {
+	padding: 0px; border: 0px currentColor; border-image: none; clear: both;
+}
+div.c-mod-6 .c-item-last div {
+	width: 300px; text-align: right; overflow: visible;
+}
+div.c-mod-6 .c-item-last .more {
+	width: 300px; text-align: right; overflow: visible;
+}
+div.c-mod-6 .c-item-last .more {
+	width: 300px;
+}
+.c-mod-7 {
+	font: bold 11px/normal arial; margin: 0px auto 16px; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+.c-mod-7 .c-item {
+	border-width: 0px 1px; border-style: solid; border-color: rgb(204, 204, 204); margin: 0px; padding: 0px 12px; border-image: none;
+}
+.c-mod-7 .c-item-first {
+	margin: 0px; padding: 8px 12px 0px; border-top-color: rgb(204, 204, 204); border-top-width: 1px; border-top-style: solid;
+}
+.c-mod-7 .c-foot {
+	border-width: 0px 1px 1px; border-style: solid; border-color: rgb(204, 204, 204); padding: 8px 10px; border-image: none; overflow: hidden;
+}
+.c-mod-7 .advert {
+	width: 278px; overflow: hidden;
+}
+.c-mod-7 .external {
+	top: 6px; right: 0px; position: absolute;
+}
+.c-mod-7 .external span {
+	color: rgb(187, 0, 0);
+}
+div.c-mod-7.c .dv-item-last {
+	margin: 0px; padding: 8px 0px; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: solid;
+}
+div.c-mod-7 .dv-feature-11 .dv-item {
+	margin: 0px; padding: 12px 0px 0px; width: 100%; border-top-color: rgb(204, 204, 204); border-top-width: 1px; border-top-style: solid;
+}
+div.c-mod-7 .dv-feature-11 .dv-item-first {
+	border: 0px currentColor; border-image: none;
+}
+div.c-mod-7 .dv-feature-11 .dv-item .m {
+	padding: 0px 12px 12px 0px;
+}
+div.c-mod-8.c {
+	margin: 0px 0px 12px; border: 1px solid rgb(204, 204, 204); border-image: none;
+}
+.c-mod-8 .c-head {
+	margin: 0px 0px 8px; overflow: hidden;
+}
+.c-mod-8 .c-body {
+	padding: 0px 6px;
+}
+.c-mod-8 .dv-item {
+	padding-bottom: 8px; margin-bottom: 8px; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.c-mod-8 .dv-item-last {
+	padding-bottom: 0px; border-bottom-color: currentColor; border-bottom-width: 0px; border-bottom-style: none;
+}
+.c-mod-8 .ext {
+	text-align: right; font-size: 11px; font-weight: bold;
+}
+.c-mod-8 .ext span {
+	color: rgb(187, 0, 0);
+}
+.c-mod-9 {
+	width: 300px; border-top-color: rgb(204, 204, 204); border-top-width: 2px; border-top-style: solid; float: left;
+}
+.c-mod-9 div.c-item {
+	border: 0px currentColor; border-image: none;
+}
+.c-mod-9 ul.dv-encap {
+	padding: 0px; font-size: 0px; margin-left: -12px; word-spacing: -3px; position: relative;
+}
+.c-mod-9 div.dv-feature li.dv-item {
+	list-style: none; margin: 0px; padding: 0px 0px 12px 12px; border: 0px currentColor; border-image: none; width: 144px; font-size: 12px; word-spacing: 0px; vertical-align: top; display: inline-block; position: relative; -ms-zoom: 1; verical-align: top;
+}
+.c-mod-9 li.dv-item-first {
+	margin-left: 12px;
+}
+.c-mod-9 li.dv-item .m {
+	margin: 0px 0px 8px;
+}
+.c-mod-9 h3 a {
+	font: bold 12px/normal arial; color: rgb(24, 58, 82); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.c-mod-9 img {
+	border: 0px currentColor; border-image: none;
+}
+.c-mod-10 {
+	position: relative;
+}
+.c-bdr-2.c-mod-10 .c-item-last {
+	padding: 0px 0px 8px;
+}
+.c-mod-10 .more {
+	top: 9px; right: 0px; position: absolute;
+}
+div.c-mod-16 {
+	margin: 0px auto 16px; position: relative;
+}
+div.c-mod-16 .c-item {
+	margin: 0px; padding: 0px 12px; border-top-color: currentColor; border-right-color: rgb(204, 204, 204); border-left-color: rgb(204, 204, 204); border-top-width: 0px; border-right-width: 1px; border-left-width: 1px; border-top-style: none; border-right-style: solid; border-left-style: solid;
+}
+div.c-mod-16 .c-item-first {
+	padding: 8px 12px 0px; border-top-color: rgb(204, 204, 204); border-top-width: 1px; border-top-style: solid;
+}
+div.c-mod-16 .dv-item {
+	background: 0px; margin: 0px 0px 8px; padding: 0px 0px 8px; border-top-color: currentColor; border-bottom-color: rgb(204, 204, 204); border-top-width: 0px; border-bottom-width: 1px; border-top-style: none; border-bottom-style: solid;
+}
+div.c-mod-16 .dv-item-last {
+	margin: 0px; border: 0px currentColor; border-image: none;
+}
+div.c-mod-16 .dv-item a {
+	font-size: 12px;
+}
+div.c-mod-16 .dv-item a {
+	font-weight: bold;
+}
+div.c-mod-16 .dv-item h3 {
+	font-weight: bold;
+}
+div.c-mod-16 .c-foot {
+	border-width: 0px 1px 1px; border-style: none solid solid; border-color: currentColor rgb(204, 204, 204) rgb(204, 204, 204); border-image: none;
+}
+div.c-mod-16 .external {
+	top: 6px; right: 0px; font-size: 11px; font-weight: bold; position: absolute;
+}
+div.c-mod-16 .external a {
+	color: rgb(24, 58, 82);
+}
+div.c-mod-16 .external span {
+	color: rgb(187, 0, 0);
+}
+div.c-mod-17 .c-head {
+	padding: 0px 0px 12px;
+}
+div.c-mod-17 .dv-item .date {
+	font-size: 11px; display: block;
+}
+div.c-mod-17 .dv-item a {
+	font-weight: bold;
+}
+.related.c-mod .c-item {
+	padding: 0px; border: 0px currentColor; border-image: none;
+}
+div.c-tab .c-nav {
+	background: rgb(16, 44, 64);
+}
+div.c-tab .c-nav li {
+	background: rgb(16, 44, 64);
+}
+div.c-tab .c-nav li {
+	border-left-color: rgb(15, 46, 67); border-left-width: 1px; border-left-style: solid;
+}
+div.c-tab .c-nav .last {
+	border-right-color: rgb(61, 99, 125); border-right-width: 1px; border-right-style: solid;
+}
+div.c-tab .c-nav .last a {
+	border-right-color: rgb(15, 46, 67); border-right-width: 1px; border-right-style: solid;
+}
+div.c-tab .c-nav li a {
+	padding: 7px 12px 6px; color: rgb(255, 255, 255); border-left-color: rgb(61, 99, 125); border-left-width: 1px; border-left-style: solid;
+}
+div.c-tab .c-nav li a:hover {
+	background: rgb(59, 82, 98);
+}
+div.c-tab .c-nav .active {
+	background: rgb(244, 244, 244); border-color: rgb(204, 204, 204);
+}
+div.c-tab .c-nav .active a {
+	border: 0px currentColor; border-image: none; color: rgb(24, 58, 82);
+}
+div.c-tab .c-nav .active a:hover {
+	background: rgb(244, 244, 244);
+}
+div.c-tab .c-body {
+	background: rgb(244, 244, 244); padding: 16px;
+}
+div.c-tab .dv-item-first {
+	padding: 0px;
+}
+div.c-tab-1 .c-nav {
+	background: rgb(255, 255, 255); padding: 0px; border-radius: 0px; border: 1px solid rgb(204, 204, 204); border-image: none; -ms-zoom: 1; -moz-border-radius: 0; -webkit-border-radius: 0;
+}
+div.c-tab-1 .c-nav li {
+	background: rgb(255, 255, 255); line-height: 1.5; font-size: 11px; border-left-color: currentColor; border-left-width: 0px; border-left-style: none;
+}
+div.c-tab-1 .c-nav li.first {
+	border-left-color: currentColor; border-left-width: 0px; border-left-style: none;
+}
+div.c-tab-1 .c-nav li a {
+	padding: 6px 10px; color: rgb(153, 153, 153); border-left-color: currentColor; border-left-width: 0px; border-left-style: none; display: block;
+}
+div.c-tab-1 .c-nav li a:hover {
+	background: rgb(255, 255, 255); padding: 6px 10px; color: rgb(102, 102, 102); text-decoration: none; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: solid;
+}
+div.c-tab-1 .c-nav .last {
+	border-right-color: rgb(204, 204, 204); border-left-color: rgb(204, 204, 204); border-right-width: 1px; border-left-width: 1px; border-right-style: solid; border-left-style: solid;
+}
+div.c-tab-1 .c-nav .last a {
+	border-right-color: currentColor; border-right-width: 0px; border-right-style: none;
+}
+div.c-tab-1 .c-nav .active {
+	background: rgb(255, 255, 255); border-width: 0px 0px 0px 1px; border-style: solid; border-color: rgb(204, 204, 204); margin: 0px; padding: 0px; border-image: none; height: 29px;
+}
+div.c-tab-1 .c-nav .active a {
+	padding: 6px 10px;
+}
+div.c-tab-1 .c-nav .active a:hover {
+	background: rgb(255, 255, 255);
+}
+div.c-tab-1 .c-nav li.active a:hover {
+	border-width: 0px;
+}
+div.c-tab-1 .c-nav .last.active {
+	border-width: 0px 1px;
+}
+div.c-tab-1 .c-nav .active a {
+	color: rgb(0, 0, 0);
+}
+div.c-tab-1 .c-nav .active a:hover {
+	color: rgb(0, 0, 0);
+}
+div.c-tab-1 .c-body {
+	background: rgb(255, 255, 255); padding: 0px;
+}
+div.c-tab-1 #tab-control li a:hover {
+	background: rgb(255, 255, 255); padding: 6px 10px 5px; color: rgb(102, 102, 102); text-decoration: none; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: solid;
+}
+div.c-tab-1 #tab-control li.active {
+	border: 0px currentColor; border-image: none;
+}
+div.c-tab-1 #tab-control li.active a:hover {
+	border-width: 0px;
+}
+div.c-tab-1 #tab-control li.first {
+	border-right-color: rgb(204, 204, 204); border-right-width: 1px; border-right-style: solid;
+}
+div.c-tab-1 #tab-control li.active.last {
+	border-width: 0px 1px; border-style: solid; border-color: rgb(204, 204, 204);
+}
+div.c-tab-2 .c-nav {
+	background: 0px; border: 0px currentColor; border-image: none; overflow: hidden;
+}
+div.c-tab-2 .c-nav li {
+	background: 0px; border: 0px currentColor; border-image: none; overflow: hidden;
+}
+div.c-tab-2 .c-nav li {
+	width: 28px; height: 26px;
+}
+div.c-tab-2 .c-nav li a {
+	width: 28px; height: 26px;
+}
+div.c-tab-2 .c-nav .first a {
+	background: url("https://www.cte-auto.net/static/v/fn2/img/bg-btn-1.png") no-repeat left -31px; border: 0px currentColor; border-image: none;
+}
+div.c-tab-2 .c-nav .first a:hover {
+	background: url("https://www.cte-auto.net/static/v/fn2/img/bg-btn-1.png") no-repeat left -3px;
+}
+div.c-tab-2 .c-nav .first.active a:hover {
+	background: url("https://www.cte-auto.net/static/v/fn2/img/bg-btn-1.png") no-repeat left -3px;
+}
+div.c-tab-2 .c-nav .first.active a {
+	background: url("https://www.cte-auto.net/static/v/fn2/img/bg-btn-1.png") no-repeat left -3px;
+}
+div.c-tab-2 .c-nav .last a {
+	background: url("https://www.cte-auto.net/static/v/fn2/img/bg-btn-1.png") no-repeat -28px -31px; border: 0px currentColor; border-image: none;
+}
+div.c-tab-2 .c-nav .active.last a {
+	background: url("https://www.cte-auto.net/static/v/fn2/img/bg-btn-1.png") no-repeat -28px -3px;
+}
+div.c-tab-2 .c-nav .last.active a:hover {
+	background: url("https://www.cte-auto.net/static/v/fn2/img/bg-btn-1.png") no-repeat -28px -3px;
+}
+div.c-tab-2 .c-nav .last a:hover {
+	background: url("https://www.cte-auto.net/static/v/fn2/img/bg-btn-1.png") no-repeat -28px -3px;
+}
+div.c-tab-2 .c-nav .last {
+	border: 0px currentColor; border-image: none;
+}
+div.c-tab-2 .c-nav {
+	float: right;
+}
+div.c-tab-2 .c-head {
+	padding-bottom: 5px; margin-bottom: 16px; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: solid; -ms-zoom: 1;
+}
+div.c-tab-2 .c-head::after {
+	width: 0px; height: 0px; padding-top: 0.01px; clear: both; font-size: 0px; display: block; content: " ";
+}
+div.c-tab-2 .c-nav li a {
+	padding: 30px 0px 0px; border: 0px currentColor; border-image: none;
+}
+div.c-tab-2 .c-nav li a:hover {
+	background: 0px;
+}
+div.c-tab-2 .c-nav .active {
+	background: 0px; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; height: 26px;
+}
+div.c-tab-2 .c-nav .active a {
+	padding: 30px 0px 0px; border: 0px currentColor; border-image: none; color: rgb(24, 58, 82);
+}
+div.c-tab-2 .c-nav .active a:hover {
+	background: 0px;
+}
+div.c-tab-2 .c-body {
+	background: 0px; border-width: 0px; padding: 0px;
+}
+div.c-tab-2 .dv-item-first {
+	padding: 0px;
+}
+div.c-tab-2 .c-foot .more-btn {
+	width: auto; margin-left: 0px; display: block;
+}
+div.c-tab-2 .c-foot .dv-encap {
+	margin-left: 0px;
+}
+div.c-tab-2 .c-item-last .dv-encap .more-btn {
+	width: auto; display: block;
+}
+div.c-tab-2 .c-body .c-item .dv-item {
+	display: none;
+}
+div.c-tab-2 .c-body .c-item-first .show.dv-item {
+	display: block;
+}
+div.c-tab-2 .c-body .c-item-last .show.dv-item {
+	display: inline-block; -ms-zoom: 1;
+}
+div.c-tab-2 .c-body .c-item-last .show.dv-item-last {
+	display: block;
+}
+div.c-tab-2 .c-body .c-item-last .dv-item-last {
+	margin: 0px 0px 8px 12px; padding: 13px 0px 0px; border-top-color: rgb(204, 204, 204); border-top-width: 1px; border-top-style: solid; display: block;
+}
+div.c-tab-2 .grid-view .dv-item .m {
+	padding-bottom: 4px;
+}
+div.c-tab-2 .grid-view .dv-item h3 a {
+	font-size: 14px;
+}
+div.c-tab-2 .grid-view .dv-item h3 {
+	padding: 0px 0px 7px;
+}
+div.c-tab-2 .list-view .dv-item h3 {
+	padding: 0px 0px 8px;
+}
+.c-var-1 h2.title a {
+	background: url("https://www.cte-auto.net/static/v/fn2/img/bg-icon-1.gif") no-repeat 0px 3px; padding-bottom: 6px; padding-left: 33px;
+}
+.c-var-1 h2.title a:hover {
+	text-decoration: none;
+}
+.c-var-2 .c-head h3 {
+	color: rgb(102, 102, 102); font-size: 13px; font-weight: normal;
+}
+.c-var-2 h2.title a {
+	background: url("https://www.cte-auto.net/static/v/fn2/img/bg-icon-1.gif") no-repeat 0px 2px; padding: 0px 0px 6px 33px;
+}
+.c-var-2 h2.title a:hover {
+	text-decoration: none;
+}
+.c-var-3 h3 {
+	color: rgb(102, 102, 102); font-size: 13px; font-weight: normal;
+}
+.c-var-4 .title-additional {
+	padding-bottom: 10px; margin-top: 0px; float: none;
+}
+.c-var-4 .title-additional a {
+	background: url("https://www.cte-auto.net/static/v/fn2/img/bg-marker-2.gif") no-repeat left 5px; padding: 1px 3px 1px 6px; font-size: 11px;
+}
+.c-var-4 .content-controls {
+	text-align: right;
+}
+.c-var-5 .dv-item-last {
+	float: right;
+}
+.c-var-6 .c-head h3 {
+	padding: 0px 0px 8px; color: rgb(102, 102, 102); font-size: 11px; font-weight: normal;
+}
+.c-var-6 .more {
+	margin: 0px; padding: 0px 0px 10px; float: none;
+}
+.c-var-6 .content-controls {
+	text-align: right;
+}
+.c-var-7 h2 {
+	font-size: 13px;
+}
+.c-var-8 .credit {
+	display: none;
+}
+.c-var-8 .c-item-last::after {
+	width: 0px; height: 0px; padding-top: 0.01px; clear: both; font-size: 0px; display: block; content: " ";
+}
+.c-var-8 .c-item-last .additional {
+	padding-bottom: 9px; margin-bottom: 0px;
+}
+.c-var-8 .dv-item h3 a {
+	font-size: 14px;
+}
+.c-var-9 .c-head {
+	padding-bottom: 8px;
+}
+.c-var-9 .c-head .tic {
+	float: left;
+}
+.c-var-9 .c-head > a {
+	float: right;
+}
+.c-var-10 .dv-feature {
+	padding-top: 8px; border-top-color: rgb(204, 204, 204); border-top-width: 1px; border-top-style: solid;
+}
+.c-var-10 :first-child.dv-feature {
+	padding-top: 0px; border-top-color: currentColor; border-top-width: 0px; border-top-style: none;
+}
+.c-var-10 .dv-feature p.external {
+	float: right;
+}
+.c-var-10 .dv-feature p.external a {
+	font-weight: bold;
+}
+.c-var-10 .dv-feature > a {
+	margin-bottom: 8px; float: left;
+}
+.c-var-10 .dv-feature .dv-encap {
+	clear: left;
+}
+.c-var-10 .c-body .c-item .dv-encap .dv-item > h3 {
+	padding-top: 6px;
+}
+.c-hrz-6-2.c-var-10 .c-item {
+	width: 300px; padding-bottom: 8px; margin-bottom: 0px;
+}
+.c-hrz-6-2.c-var-10 .c-head .advert > a {
+	font-weight: bold; float: right;
+}
+.c-hrz-6-2.c-var-10 .c-head .advert .tic {
+	padding-bottom: 6px; float: left;
+}
+.c-hrz-6-2.c-var-10 .c-head .advert::after {
+	width: 0px; height: 0px; padding-top: 0.01px; clear: both; font-size: 0px; display: block; content: " ";
+}
+div.c-var-11 .c-item-last {
+	padding-bottom: 8px;
+}
+div.c-var-12 .c-head {
+	padding-bottom: 12px;
+}
+div.c-var-14 .c-item-last h2 {
+	padding: 0px 0px 12px; text-transform: uppercase; font-size: 13px;
+}
+div.c-var-14 .c-item-last h2 {
+	color: rgb(0, 0, 0);
+}
+div.c-var-14 .c-item-last h2 a {
+	color: rgb(0, 0, 0);
+}
+.g-28 div.c-var-15 .dv-item {
+	margin: 0px 0px 0px 12px !important; border: 0px currentColor; border-image: none; width: 150px; float: left;
+}
+.g-28 div.c-var-15 .dv-encap {
+	margin: 0px 0px 0px -12px;
+}
+.g-28 div.additional {
+	margin: 0px; padding: 0px 0px 12px;
+}
+.g-28 div.additional a {
+	background: url("https://www.cte-auto.net/static/v/fn2/img/bg-marker-4.png") no-repeat right 3px; padding: 0px 8px 0px 0px; line-height: 1; font-size: 11px; font-weight: bold;
+}
+div.c-var-17 {
+	margin: 0px 0px 12px;
+}
+div.c-var-17 .dv-item {
+	padding: 12px 0px 0px;
+}
+div.c-var-17 .dv-item-first {
+	padding: 0px;
+}
+div.c-var-17 .dv-item-last {
+	padding: 12px 0px 10px;
+}
+div.c-var-18 {
+	padding: 8px 0px;
+}
+div.c-var-18 .c-item-first img {
+	margin: 0px 12px 0px 0px;
+}
+div.c-var-18 .c-item-first p {
+	margin: 3px 0px 0px; width: 190px; color: rgb(0, 0, 0); font-size: 11px; vertical-align: top; display: inline-block;
+}
+div.c-var-18 .c-item-last {
+	padding: 0px; border-top-color: currentColor; border-top-width: 0px; border-top-style: none;
+}
+div.c-var-18 .c-item-last .caption {
+	background: rgba(0, 0, 0, 0.8); padding: 0px; width: 100%; bottom: 0px; color: rgb(255, 255, 255); font-size: 11px; display: block; position: absolute;
+}
+div.c-var-18 .c-item-last .m:hover + .caption {
+	background: rgb(0, 0, 0);
+}
+div.c-var-18 .c-item-last .caption:hover {
+	background: rgb(0, 0, 0);
+}
+div.c-var-18 .c-item-last .caption a {
+	padding: 6px 7px 7px; width: 142px; color: rgb(255, 255, 255); display: block;
+}
+div.c-var-18 .c-item-last .caption a:hover {
+	text-decoration: none;
+}
+div.c-var-18 .c-item-last .dv-item {
+	float: left;
+}
+div.c-var-18 .c-item-last .dv-item-first {
+	margin: 0px 12px 0px 0px;
+}
+div.c-var-19 {
+	padding: 0px; border-top-color: currentColor; border-top-width: 0px; border-top-style: none;
+}
+div.c-var-19 .c-item {
+	padding: 0px; width: 324px; border-top-color: currentColor; border-top-width: 0px; border-top-style: none; float: left;
+}
+div.c-var-19 .c-item-first.c-item {
+	margin: 0px 12px 8px 0px; width: 324px; float: left;
+}
+div.c-var-19 .c-item .dv-feature-4 ul {
+	margin: 0px 0px 0px -12px; font-size: 0px;
+}
+div.c-var-19 .c-item .dv-item {
+	margin: 0px 0px 0px 12px; padding: 0px; border: 0px currentColor; border-image: none; width: 156px; vertical-align: top; display: inline-block;
+}
+div.c-var-19 .c-item-first .dv-item-first {
+	width: 324px;
+}
+div.c-var-19 .c-item-first .dv-item-first h3 {
+	margin: 0px 0px 10px; padding: 0px; font-size: 21px;
+}
+div.c-var-19 .c-item-first .dv-item-first p {
+	color: rgb(0, 0, 0); line-height: 17px; font-size: 13px;
+}
+div.c-var-19 .c-item-last {
+	width: 660px;
+}
+div.c-var-19 .c-item-last h2.title {
+	padding: 8px 0px 0px; color: rgb(0, 0, 0); text-transform: uppercase; border-top-color: rgb(204, 204, 204); border-top-width: 2px; border-top-style: solid;
+}
+div.c-var-19 .c-item-last .dv-item {
+	margin: 12px 0px 0px; width: 660px; padding-top: 12px; border-top-color: rgb(204, 204, 204); border-top-width: 1px; border-top-style: solid; float: none;
+}
+div.c-var-19 .c-item-last .dv-item-first {
+	border: 0px currentColor; border-image: none;
+}
+div.c-var-19 .c-item-last .dv-item p {
+	width: 396px; float: right;
+}
+div.c-var-19 .c-item-last .dv-item p + p {
+	margin: 12px 0px 0px;
+}
+div.c-var-19 .c-item-last .dv-item div.left.social-count {
+	width: 396px; float: right;
+}
+div.c-var-19 .c-item-first .dv-item-first h3 {
+	font-size: 24px;
+}
+div#section-content div.dv-feature-4 .dv-item h3 {
+	font-size: 12px;
+}
+div#section-content div.c-var-19 .c-item-first .dv-feature-4 h3 {
+	font-size: 24px;
+}
+div.c-var-19 #travel-slideshow-page .dv-item p {
+	color: rgb(0, 0, 0); line-height: 16px;
+}
+div.c-var-19 #science-slideshow-page .dv-item p {
+	color: rgb(0, 0, 0); line-height: 16px;
+}
+.c-var-20 .c-item {
+	margin: 0px;
+}
+.c-var-20 .show.more-btn.dv-item {
+	margin: 0px 0px 24px;
+}
+div.c-var-21 {
+	margin: 16px 0px; padding: 0px; border: 1px solid rgb(204, 204, 204); border-image: none; overflow: hidden;
+}
+div.c-var-21 .c-head {
+	margin: 0px 0px 6px;
+}
+div.c-var-21 .c-body {
+	padding: 0px 6px;
+}
+div.c-var-21 .c-foot {
+	padding: 0px 6px;
+}
+div.c-var-30 {
+	margin: 0px 0px 16px;
+}
+div.c-var-30 div.c-item {
+	margin: 0px; padding: 0px;
+}
+div.c-var-31 {
+	padding: 8px 0px;
+}
+div.c-var-31 .c-item-first {
+	overflow: hidden;
+}
+div.c-var-31 .c-item-first img {
+	margin: 0px 12px 0px 0px;
+}
+div.c-var-31 .c-item-first p {
+	margin: 0px; width: 170px; color: rgb(0, 0, 0); font-size: 11px; vertical-align: top; float: left; display: inline-block;
+}
+div.c-var-31 .c-item-last {
+	padding: 0px; margin-bottom: 0px; border-top-color: currentColor; border-top-width: 0px; border-top-style: none;
+}
+div.c-var-31 .c-item-last .caption {
+	background: rgba(0, 0, 0, 0.8); padding: 0px; width: 100%; bottom: 0px; color: rgb(255, 255, 255); font-size: 11px; display: block; position: absolute;
+}
+div.c-var-31 .c-item-last .m:hover + .caption {
+	background: rgb(0, 0, 0);
+}
+div.c-var-31 .c-item-last .caption:hover {
+	background: rgb(0, 0, 0);
+}
+div.c-var-31 .c-item-last .caption a {
+	padding: 6px 7px 7px; color: rgb(255, 255, 255); display: inline-block;
+}
+div.c-var-31 .c-item-last .caption a:hover {
+	text-decoration: none;
+}
+div.c-var-31 .c-item-last .dv-item {
+	float: left;
+}
+div.c-var-31 .c-item-last .dv-item-first {
+	margin: 0px 12px 0px 0px;
+}
+div.c-var-31 .c-item-first a {
+	color: rgb(255, 255, 255); float: left; display: inline-block;
+}
+div.c-var-31 .c-item-first a:hover {
+	text-decoration: none;
+}
+div.c-var-31 .m-8 .dv-item {
+	margin: 0px 0px 16px;
+}
+div.c-var-31 div.dv-feature-37 .dv-item .summary-overlay {
+	border: 0px currentColor; border-image: none;
+}
+div.c-var-31 div.dv-feature-9 .dv-item .summary-overlay {
+	border: 0px currentColor; border-image: none;
+}
+div.c-var-31 div.dv-feature-37 .dv-item .summary-overlay a {
+	font-size: 11px; font-weight: normal;
+}
+div.c-var-31 div.dv-feature-9 .dv-item .summary-overlay a {
+	font-size: 11px; font-weight: normal;
+}
+div.ureport-mod.c-var-31 {
+	padding: 8px 0px 16px;
+}
+div.c-var-32 {
+	margin: 0px 0px 12px; overflow: visible; position: relative;
+}
+div.c-var-32 .c-item {
+	float: none;
+}
+div.c-var-32 .c-item-first .m {
+	left: 0px; top: 0px; width: 156px; height: 277px; overflow: visible !important; position: absolute !important;
+}
+div.c-var-32 .c-item-first .m a {
+	left: 0px; top: 0px; width: 156px; height: 277px; overflow: visible !important; position: absolute !important;
+}
+div.c-var-32 .c-item-first img {
+	width: 156px; height: 277px;
+}
+div.c-var-32 .c-item-first .dv-item {
+	margin: 0px 0px 0px 169px; width: 492px; float: none;
+}
+div.c-var-32 .c-item-first .dv-item-first {
+	padding: 0px; border-top-color: currentColor; border-top-width: 0px; border-top-style: none;
+}
+div.c-var-32 .c-item-first .dv-item-first h3 a {
+	font-size: 18px; font-weight: bold;
+}
+div.c-var-32 .c-item-first .dv-item-first h3 {
+	padding-bottom: 3px;
+}
+div.c-var-32 h2.title {
+	padding: 0px 0px 14px;
+}
+div.c-var-32 .c-item-last .dv-item {
+	margin: 0px 0px 14px 169px; padding: 12px 0px 0px; width: 492px; line-height: 4px; border-top-color: rgb(204, 204, 204); border-top-width: 1px; border-top-style: dashed; float: none;
+}
+div.c-var-32 .c-item-last .dv-item h3 {
+	color: rgb(24, 58, 82); font-size: 12px; font-weight: bold;
+}
+div.c-var-32 .c-item-last .dv-item .source {
+	color: rgb(153, 153, 153); font-size: 11px; font-style: italic;
+}
+div.c-var-32 .c-item-first .dv-item .source {
+	color: rgb(153, 153, 153); font-size: 11px; font-style: italic;
+}
+div.c-var-33.td-1.traffic-driver h2.title {
+	padding: 4px 12px 18px;
+}
+div.c-var-33.td-1.traffic-driver div.c-item p.external {
+	top: 30px;
+}
+.c-var-34 .dv-feature {
+	padding-top: 8px; border-top-color: rgb(204, 204, 204); border-top-width: 1px; border-top-style: solid;
+}
+.c-var-34 :first-child.dv-feature {
+	padding-top: 0px; border-top-color: currentColor; border-top-width: 0px; border-top-style: none;
+}
+.c-var-34 .dv-feature p.external {
+	float: right;
+}
+.c-var-34 .dv-feature p.external a {
+	font-weight: bold;
+}
+.c-var-34 .dv-feature > a {
+	margin-bottom: 8px; float: left;
+}
+.c-var-34 .dv-feature .dv-encap {
+	clear: left;
+}
+.c-var-34 .c-body .c-item .dv-encap .dv-item > h3 {
+	padding-top: 6px;
+}
+.c-hrz-6-2.c-var-34 .c-item {
+	width: 300px; padding-bottom: 8px; margin-bottom: 0px;
+}
+.c-hrz-6-2.c-var-34 .c-head .advert > a {
+	font-weight: bold; float: right;
+}
+.c-hrz-6-2.c-var-34 .c-head .advert .tic {
+	padding-bottom: 6px; float: left;
+}
+.c-hrz-6-2.c-var-34 > div.c-item-first {
+	padding: 0px;
+}
+.c-hrz-6-2.c-var-34 .c-head .advert::after {
+	width: 0px; height: 0px; padding-top: 0.01px; clear: both; font-size: 0px; display: block; content: " ";
+}
+div.c-var-38 {
+	margin: 0px 0px 16px; padding: 6px 0px 0px; overflow: hidden;
+}
+div.c-var-38 .title {
+	float: left;
+}
+div.c-var-38 .c-item {
+	margin: 0px; border: 0px currentColor; border-image: none; width: 660px; float: left;
+}
+div.c-var-38 .c-item .dv-item h3 {
+	font: bold 14px/normal arial; padding: 0px; font-size-adjust: none; font-stretch: normal;
+}
+div.c-var-38 .c-item .summary {
+	font: italic 11px/normal arial; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+div.c-var-38 .c-item .dv-item {
+	margin: 0px 0px 0px 12px; padding: 0px; border: 0px currentColor; border-image: none; width: 156px; float: left; display: inline-block; -ms-zoom: 1;
+}
+div.c-var-38 .c-item .dv-item-first {
+	margin-left: 0px;
+}
+div.c-var-38 .c-item ul {
+	margin: 0px 0px 12px; float: left;
+}
+div.c-var-38 .c-item .dv-item + .dv-item + .dv-item + .dv-item + .dv-item {
+	margin: 0px;
+}
+div.c-var-38 .c-item .dv-item + .dv-item + .dv-item + .dv-item + .dv-item + .dv-item {
+	margin: 0px 0px 0px 12px;
+}
+.c-var-39 .c-item {
+	margin: 0px;
+}
+.c-var-39 h3 {
+	font-size: 22px;
+}
+.c-var-39 div.dv-feature-24 h3 {
+	font-size: 22px;
+}
+.c-var-39 div.dv-feature .dv-item {
+	margin: 0px 0px 16px; border: 0px currentColor; border-image: none;
+}
+.c-var-39 div.dv-feature .show.more-btn.dv-item {
+	margin: 0px 0px 24px;
+}
+#section-content .c-var-39 div.dv-feature .btn-smll {
+	margin: 0px 0px 16px;
+}
+.c-var-39.c .author {
+	font: 13px/normal arial; color: rgb(102, 102, 102); display: block; font-size-adjust: none; font-stretch: normal;
+}
+.c-var-39 .author-headshot {
+	margin-left: 12px; float: right;
+}
+.c-var-39 .author-headshot img {
+	margin: 0px;
+}
+.c-var-39 div.m-l .m {
+	padding-right: 12px;
+}
+.c-var-39 {
+	position: relative;
+}
+.c-var-39 .m + a.media-credit {
+	background: rgba(0, 0, 0, 0.8); font: 10px/normal arial; margin: 0px; padding: 2px 5px; top: 354px; right: 0px; color: rgb(255, 255, 255); position: absolute; z-index: 99; font-size-adjust: none; font-stretch: normal;
+}
+.c-var-39 .m + a.media-credit:hover {
+	background: rgb(0, 0, 0); text-decoration: none;
+}
+.c-var-39 .m + a.media-credit {
+	
+}
+@media 
+{
+.c-var-39 .m + a.media-credit {
+	background: url("https://www.cte-auto.net/static/v/all/img/overlay-override.png");
+}
+}
+.c-var-40 div.c-item {
+	padding: 0px; border: 0px currentColor; border-image: none;
+}
+.c-var-40 div.c-item-first {
+	margin: 0px;
+}
+.c-var-40 div.c-item-first img {
+	padding-left: 0px !important;
+}
+.c-var-40 div.c-item-last {
+	padding-left: 70px; margin-top: -4px;
+}
+div.c-var-42 {
+	padding: 8px 0px;
+}
+div.c-var-42 .c-item-first img {
+	margin: 0px 12px 0px 0px;
+}
+div.c-var-42 .c-item-first p {
+	margin: 8px 0px 0px; width: auto; color: rgb(0, 0, 0); font-size: 11px; vertical-align: top; display: inline-block;
+}
+div.c-var-42 .c-item-last {
+	padding: 0px; border-top-color: currentColor; border-top-width: 0px; border-top-style: none;
+}
+div.c-var-42 .c-item-last .caption {
+	background: rgba(0, 0, 0, 0.8); padding: 0px; width: 100%; bottom: 0px; color: rgb(255, 255, 255); font-size: 11px; display: block; position: absolute;
+}
+div.c-var-42 .c-item-last .m:hover + .caption {
+	background: rgb(0, 0, 0);
+}
+div.c-var-42 .c-item-last .caption:hover {
+	background: rgb(0, 0, 0);
+}
+div.c-var-42 .c-item-last .caption a {
+	padding: 6px 7px 7px; width: 142px; color: rgb(255, 255, 255); display: block;
+}
+div.c-var-42 .c-item-last .caption a:hover {
+	text-decoration: none;
+}
+div.c-var-42 .c-item-last .dv-item {
+	margin: 0px 12px 0px 0px; float: left;
+}
+div.c-var-42 .c-item-last .dv-item-last {
+	margin: 0px;
+}
+.c-var-44 .dv-encap {
+	padding: 13px 0px 0px 16px; width: 130px; float: left;
+}
+.c-var-44 .c-item {
+	background: rgb(244, 244, 244);
+}
+.c-var-crowd-ignite.c {
+	border-width: 2px 0px 0px; border-style: solid; border-color: rgb(24, 58, 85); margin: 0px 0px 32px; border-image: none;
+}
+.c-var-crowd-ignite.c table {
+	padding: 12px 0px !important;
+}
+.c-var-crowd-ignite.c table tr td {
+	padding: 0px 0px 0px 12px !important;
+}
+#section-content .g-last.g-13 .c .c-item div.crowd-ignite table {
+	padding: 1px 0px 21px !important;
+}
+#section-content .c-var-crowd-ignite.c .c-item table tr td > div {
+	margin: 8px 0px 0px !important;
+}
+.c-var-crowd-ignite.c .c-item {
+	background: rgb(229, 237, 240); margin: 0px; padding: 0px; border: 0px currentColor; border-image: none;
+}
+.c-var-crowd-ignite.c .c-item h3 {
+	background: 0px; font: bold 13px/normal arial; padding: 12px 12px 0px; border: 0px currentColor; border-image: none; color: rgb(24, 58, 82); text-transform: uppercase; position: static; font-size-adjust: none; font-stretch: normal;
+}
+.no-ad.c-var-crowd-ignite.c .c-item-last {
+	display: none;
+}
+div.c-var-54 {
+	border-width: 2px 0px 0px; border-style: solid; border-color: rgb(204, 204, 204); margin: 0px; padding: 8px 0px 0px; border-image: none; overflow: hidden;
+}
+div.c-var-54 .title {
+	float: left;
+}
+div.c-var-54 .c-item {
+	margin: 0px 24px 24px 0px; padding: 0px; width: 276px; clear: both; border-top-color: currentColor; border-top-width: 0px; border-top-style: none; float: left;
+}
+div.c-var-54 .c-item h3 {
+	font: bold 26px/normal arial; font-size-adjust: none; font-stretch: normal;
+}
+div.c-var-54 .c-item + .c-item {
+	padding: 0px;
+}
+div.c-var-54 .c-item + .c-item .dv-item-first {
+	padding-top: 0px;
+}
+div.c-var-54 .c-item-first + .c-item {
+	margin: 0px; width: 360px; clear: none; float: left;
+}
+div.c-var-54 .c-item-first + .c-item .dv-item {
+	border-width: 1px 0px 0px; border-style: solid; border-color: rgb(204, 204, 204); margin: 0px 0px 24px; padding: 24px 0px 0px; border-image: none; width: 348px; vertical-align: top; display: inline-block;
+}
+div.c-var-54 .c-item-first + .c-item .dv-item-first {
+	padding: 0px; border: 0px currentColor; border-image: none;
+}
+div.c-var-54 .c-item-first + .c-item .dv-item-last {
+	padding: 0px; border: 0px currentColor; border-image: none; text-align: right;
+}
+div.c-var-54 .c-item-first + .c-item .dv-item-last a {
+	font: bold 11px/normal arial; font-size-adjust: none; font-stretch: normal;
+}
+div.c-var-54 .c-item-first + .c-item .dv-item-last a span {
+	color: rgb(187, 0, 0);
+}
+div.c-var-54 .c-item-last {
+	margin: 0px; clear: none; float: left;
+}
+div.c-var-54 .c-item-last .dv-item {
+	margin: 0px 0px 0px 11px; padding: 0px; width: 348px; vertical-align: top; display: inline-block;
+}
+div.c-var-54 .c-item-last .dv-feature-4 {
+	margin: 0px; width: 348px;
+}
+div#section-content div.c-var-54 .c-item-last .dv-feature-4 .dv-item h3 {
+	font: bold 13px/21px arial; margin: -5px 0px 0px; padding: 0px 0px 8px; font-size-adjust: none; font-stretch: normal;
+}
+div#section-content div.c-var-54 .c-item-last .dv-feature-4 .dv-item .summary {
+	font: 12px/19px arial; margin: -4px 0px 0px; padding: 0px; overflow: hidden; font-size-adjust: none; font-stretch: normal;
+}
+div.c-var-54 .c-item-last .dv-feature-4 .m {
+	margin: 0px 0px 12px 12px; float: right;
+}
+div.c-var-54 div.social-count {
+	margin: 0px; padding: 8px 0px 12px; float: none;
+}
+#section-branding {
+	padding: 0px;
+}
+.section-presentational {
+	float: left;
+}
+.vp-overlay ~ .m-img-overlay {
+	display: none;
+}
+div.c img.author-pic {
+	padding-right: 8px; margin-right: 0px; float: left;
+}
+.t {
+	padding: 0px 0px 8px; overflow: hidden;
+}
+.t .branding {
+	float: left;
+}
+.t .more {
+	top: 8px; overflow: hidden; position: relative;
+}
+.b.t .more {
+	top: 0px;
+}
+.t .external {
+	top: 8px; text-align: right; overflow: hidden; font-size: 11px; font-weight: bold; position: relative;
+}
+.t .external span {
+	color: rgb(187, 0, 0);
+}
+.b.t .external {
+	top: 0px;
+}
+.cat-name {
+	padding: 0px 0px 6px; display: block;
+}
+.cat-name a {
+	font: bold 11px/normal arial; color: rgb(110, 131, 146); text-transform: uppercase; font-size-adjust: none; font-stretch: normal;
+}
+span.cat-name {
+	font: bold 11px/normal arial; color: rgb(110, 131, 146); text-transform: uppercase; font-size-adjust: none; font-stretch: normal;
+}
+.cat-name a:hover {
+	color: rgb(164, 191, 210); text-decoration: none;
+}
+.g-14 .component .c-multi-7 div.dv-feature-4 .dv-item h3 {
+	padding: 0px 0px 4px;
+}
+.g-14 .component .c-multi-7 div.c-item-last.c-item-first {
+	margin: 0px;
+}
+.c .load-more .dv-item {
+	display: none;
+}
+.c .load-more-v2 .dv-item {
+	display: none;
+}
+.load-more.c .dv-item {
+	display: none;
+}
+.load-more-v2.c .dv-item {
+	display: none;
+}
+.c .load-more .show.dv-item {
+	display: block;
+}
+.c .load-more-v2 .show.dv-item {
+	display: block;
+}
+.load-more.c .show.dv-item {
+	display: block;
+}
+.load-more-v2.c .show.dv-item {
+	display: block;
+}
+.load-more .more-btn .showing-num {
+	color: rgb(102, 102, 102); font-size: 11px;
+}
+.load-more-v2 .more-btn .showing-num {
+	color: rgb(102, 102, 102); font-size: 11px;
+}
+.load-more-v2.c .loading.dv-item .m {
+	background: url("https://www.cte-auto.net/static/v/all/img/ajax-loader.gif") no-repeat 50% 50%; outline: rgb(204, 204, 204) solid 1px;
+}
+.rcp {
+	padding: 0px 0px 8px;
+}
+.rcp table {
+	background: rgb(242, 242, 242); margin: 0px 0px 0px 1px !important; border: 1px solid rgb(187, 187, 187); border-image: none; width: 300px; color: rgb(0, 0, 0); font-size: 12px; border-collapse: collapse;
+}
+.rcp table tr {
+	border-width: 1px medium 1px 0px !important; border-style: solid none !important; border-color: rgb(218, 218, 218) currentColor !important; border-image: none !important;
+}
+.rcp table tr.title {
+	background: rgb(255, 255, 255); font-weight: bold;
+}
+.rcp table tr.title td {
+	background: rgb(255, 255, 255);
+}
+.rcp table td {
+	padding: 8px 0px 8px 5px !important; border: 0px currentColor !important; border-image: none !important; width: 66px; text-align: center; line-height: 14px;
+}
+.rcp table td.first {
+	width: 100px;
+}
+.rcp table td.grey {
+	background: rgb(229, 229, 229);
+}
+.rcp table td.bold {
+	color: rgb(24, 58, 82); font-size: 14px; font-weight: bold;
+}
+.you-decide-poll {
+	margin: 0px auto 16px; border: 1px solid rgb(204, 204, 204); border-image: none; width: 298px; position: relative;
+}
+.you-decide-poll label {
+	cursor: default;
+}
+.you-decide-poll #PDI_container45988 {
+	padding: 0px;
+}
+.you-decide-poll #PDI_container45988 .pds-box {
+	background: rgb(255, 255, 255); margin: 0px; padding: 0px 12px !important; border-radius: 0px; border: 0px currentColor; border-image: none; width: 274px; -moz-border-radius: 0; -webkit-border-radius: 0;
+}
+.you-decide-poll #PDI_container45988 .pds-question-top {
+	padding: 5px 0px 2px; text-align: left;
+}
+.you-decide-poll #PDI_container45988 .pds-answer-input {
+	padding: 0px !important;
+}
+.you-decide-poll #PDI_container45988 .pds-input-label {
+	padding: 0px; width: 248px;
+}
+.you-decide-poll #PDI_container45988 .pds-radiobutton {
+	margin: 1px 0px 3px;
+}
+.you-decide-poll #PDI_container45988 .pds-vote-button {
+	background: rgb(255, 255, 255); margin: 0px; padding: 4px 8px !important; border-radius: 0px; border: 1px solid rgb(153, 153, 153); border-image: none; width: auto; text-align: center; color: rgb(24, 58, 82); line-height: normal; font-size: 11px; font-weight: bold; cursor: pointer; box-shadow: 0px 0px 5px #ccc; -moz-box-shadow: 0 0 5px #ccc; -webkit-box-shadow: 0 0 5px #ccc; -moz-border-radius: 0; -webkit-border-radius: 0;
+}
+.you-decide-poll #PDI_container45988 .pds-vote-button:hover {
+	color: rgb(41, 93, 129);
+}
+.you-decide-poll #PDI_container45988 .pds-vote {
+	padding: 10px 0px !important;
+}
+.you-decide-poll #PDI_container45988 .pds-vote-button span {
+	padding: 0px; font-size: 11px;
+}
+.you-decide-poll #PDI_container45988 .pds-view-results {
+	padding: 6px 0px 0px; color: rgb(24, 58, 82); font-weight: normal;
+}
+.you-decide-poll #PDI_container45988 .pds-share {
+	padding: 0px; float: right; display: block !important;
+}
+.you-decide-poll .advert-txt-1 {
+	background-position: -3px 0px;
+}
+.you-decide-poll #PDI_container45988 .pds-feedback-group {
+	margin: 0px 0px 14px; position: relative; min-height: 30px;
+}
+.you-decide-poll #PDI_container45988 .pds-feedback-group .pds-feedback-per {
+	left: 0px; color: rgb(0, 0, 0); float: right; position: absolute;
+}
+.you-decide-poll #PDI_container45988 .pds-feedback-group .pds-feedback-votes {
+	display: none;
+}
+.you-decide-poll #PDI_container45988 .pds-feedback-group .pds-answer-feedback {
+	background: rgb(204, 204, 204); margin: 0px; border: 0px currentColor; border-image: none; width: 222px; float: right;
+}
+.you-decide-poll #PDI_container45988 .pds-answer-feedback-bar {
+	background: rgb(24, 58, 82); height: 12px;
+}
+.you-decide-poll #PDI_container45988 .pds-feedback-group .pds-answer-text {
+	margin: 0px 0px 0px 52px; top: 18px; float: left; position: absolute;
+}
+.you-decide-poll #PDI_container45988 .pds-total-votes {
+	margin: 28px 0px 0px !important; top: -22px; color: rgb(24, 58, 82) !important; position: relative;
+}
+.you-decide-poll #PDI_container45988 .pds-links {
+	margin: 0px 0px 8px !important; padding: 0px; clear: both; float: none;
+}
+.you-decide-poll #PDI_container45988 .pds-links-back {
+	margin: 28px 0px 0px; display: block;
+}
+.you-decide-poll #PDI_container45988 .pds-links-back .pds-return-poll {
+	display: none;
+}
+.you-decide-poll #PDI_container45988 .pds-links-back .pds-share {
+	padding: 0px; top: -22px; font-weight: bold; float: left; position: relative;
+}
+.you-decide-poll #PDI_container45988 .pds-links-back .pds-share:hover {
+	text-decoration: underline !important;
+}
+.you-decide-poll a.view-all {
+	margin: 0px; padding: 4px 8px; border: 1px solid rgb(153, 153, 153); border-image: none; text-align: center; right: 12px; bottom: 34px; color: rgb(24, 58, 82); line-height: 1.1; font-size: 11px; font-weight: bold; position: absolute; cursor: pointer; box-shadow: 0px 0px 5px #ccc; -moz-box-shadow: 0 0 5px #ccc; -webkit-box-shadow: 0 0 5px #ccc;
+}
+.you-decide-poll a.view-all:hover {
+	color: rgb(41, 93, 129); text-decoration: none;
+}
+.you-decide-poll .dc.ad {
+	padding: 0px !important;
+}
+.you-decide-poll .dc.ad iframe {
+	height: 49px;
+}
+.you-decide-poll #PDI_container45988 .pds-links {
+	padding: 5px 0px 0px !important;
+}
+div#presented-972x40 {
+	margin-bottom: 0px;
+}
+#feature-slider {
+	padding-bottom: 8px;
+}
+.dv-list ul.list-obj li {
+	background: url("https://www.cte-auto.net/static/v/all/img/bg-icon-6.gif") no-repeat 0px 4px; padding: 0px 0px 4px 10px; border: 0px currentColor; border-image: none; line-height: 14px; overflow: hidden; font-size: 11px; -ms-zoom: 1;
+}
+.dv-list ul.list-obj li em {
+	padding: 0px 4px 0px 0px; font-style: normal; font-weight: bold;
+}
+.dv-list ul.list-obj li abbr {
+	padding: 0px; border: 0px currentColor; border-image: none; color: rgb(102, 102, 102); text-transform: uppercase; line-height: 12px; font-size: 10px; font-style: italic; font-weight: normal;
+}
+.channel-bar .title h1 {
+	border: 0px currentColor; border-image: none; max-width: 760px;
+}
+.channel-bar .title::after {
+	width: 0px; height: 0px; padding-top: 0.01px; clear: both; font-size: 0px; content: " ";
+}
+.channel-bar {
+	border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: solid; -ms-zoom: 1;
+}
+.channel-bar::after {
+	width: 0px; height: 0px; padding-top: 0.01px; clear: both; font-size: 0px; display: block; content: " ";
+}
+.channel-bar .advertisement {
+	padding: 8px 0px 0px;
+}
+.user-interaction {
+	margin: 0px 0px 16px; padding: 8px 6px 2px; border-radius: 3px; clear: both; -ms-zoom: 1; -moz-border-radius: 3px; -webkit-border-radius: 3px;
+}
+.user-interaction {
+	background: rgb(242, 242, 242);
+}
+.user-interaction li {
+	background: rgb(242, 242, 242);
+}
+.user-interaction::after {
+	height: 0px; padding-top: 0.1px; clear: both; font-size: 0px; display: block; content: " ";
+}
+.user-interaction li {
+	list-style: none; margin: 0px 10px 0px 0px; font-size: 11px; font-weight: bold; float: left;
+}
+.user-interaction li a {
+	color: rgb(102, 102, 102);
+}
+.user-interaction li a span {
+	margin-top: -2px; margin-right: 5px;
+}
+.user-interaction li a:hover {
+	text-decoration: none;
+}
+.user-interaction .comments {
+	display: none;
+}
+.user-interaction .recommend {
+	margin: -2px 0px 0px; width: 150px; z-index: 999;
+}
+.user-interaction .view {
+	margin: 0px; float: right;
+}
+.user-interaction li span {
+	background: url("https://www.cte-auto.net/static/v/fn2/img/bg-icon-2.gif") repeat-x; width: 16px; height: 16px; overflow: hidden; text-decoration: none; vertical-align: middle; display: inline-block; cursor: pointer;
+}
+.user-interaction li .decrease {
+	background: url("https://www.cte-auto.net/static/v/fn2/img/bg-icon-2.gif") repeat-x; width: 16px; height: 16px; overflow: hidden; text-decoration: none; vertical-align: middle; display: inline-block; cursor: pointer;
+}
+.user-interaction li .increase {
+	background: url("https://www.cte-auto.net/static/v/fn2/img/bg-icon-2.gif") repeat-x; width: 16px; height: 16px; overflow: hidden; text-decoration: none; vertical-align: middle; display: inline-block; cursor: pointer;
+}
+.user-interaction .recommend span {
+	background: 0px; width: auto; height: auto; min-height: 22px; min-width: 150px;
+}
+.user-interaction .recommend .fb_edge_comment_widget {
+	width: 500px; overflow: visible;
+}
+.user-interaction .print a:hover span {
+	background-position: 0px -16px;
+}
+.user-interaction .email {
+	padding-top: 1px;
+}
+.user-interaction .email span {
+	background-position: 81px 0px; width: 17px;
+}
+.user-interaction .email a:hover span {
+	background-position: 81px -16px;
+}
+.user-interaction .share span {
+	background-position: 64px 0px;
+}
+.user-interaction .share a:hover span {
+	background-position: 64px -16px;
+}
+.user-interaction .comments span {
+	background-position: 48px 0px;
+}
+.user-interaction .comments a:hover span {
+	background-position: 48px -16px;
+}
+.user-interaction .share {
+	padding-top: 1px;
+}
+.user-interaction .view {
+	color: rgb(85, 85, 85); font-size: 11px; display: none;
+}
+.user-interaction .tweet {
+	margin: -2px 0px 0px; width: 110px;
+}
+.user-interaction .tweet span {
+	background: 0px;
+}
+.connect > div {
+	margin: 8px 0px 14px; padding: 12px; border: 1px solid rgb(204, 204, 204); border-image: none; overflow: hidden;
+}
+.connect .m {
+	margin: 0px 12px 8px 0px; width: 60px; height: 60px; float: left;
+}
+.connect .m::after {
+	height: 0px; clear: both; display: block; visibility: hidden; content: ".";
+}
+.connect h2.title {
+	padding: 0px 0px 6px;
+}
+.connect h4 {
+	margin: 0px 0px 4px; padding: 8px 0px 0px; font-size: 13px;
+}
+.connect form {
+	float: left;
+}
+.connect form legend {
+	display: none;
+}
+.connect form input {
+	margin: 0px;
+}
+.connect form input[type='text'] {
+	border-width: 1px; border-style: solid; border-color: rgb(172, 173, 178) rgb(220, 223, 230) rgb(226, 233, 239); margin: 0px 8px 0px 0px; padding: 4px 6px; border-radius: 2px; width: 111px; color: rgb(102, 102, 102); font-size: 11px; vertical-align: middle; float: left; -moz-border-radius: 2px; -webkit-border-radius: 2px;
+}
+.connect form input[type='submit'] {
+	padding: 4px 8px; border: 1px solid rgb(153, 153, 153); border-image: none; color: rgb(24, 58, 82); font-size: 11px; font-weight: bold; cursor: pointer; box-shadow: 0px 0px 5px #ccc; -moz-box-shadow: 0 0 5px #ccc; -webkit-box-shadow: 0 0 5px #ccc;
+}
+.connect form input[type='submit']:hover {
+	color: rgb(41, 93, 129);
+}
+.connect form .note-error {
+	padding: 3px 0px 0px; color: rgb(187, 0, 0); font-size: 11px; font-style: italic;
+}
+.connect form .note-reg {
+	width: 194px; color: rgb(49, 113, 18); font-size: 11px; font-style: italic; float: left;
+}
+.connect form + div {
+	clear: both;
+}
+.connect .fb-like {
+	padding-top: 8px; float: left;
+}
+.connect .twitter-follow-button {
+	width: 162px !important; padding-top: 8px; float: left;
+}
+#eNewsSubscription {
+	visibility: hidden;
+}
+div.sub-box {
+	background: rgb(0, 0, 0); left: 0px; width: 100%; height: 48px; bottom: 0px; position: fixed; z-index: 9999;
+}
+div.sub-box img {
+	vertical-align: top; display: inline-block;
+}
+div.sub-box div {
+	vertical-align: top; display: inline-block;
+}
+div.sub-box > div {
+	margin: 0px auto; width: 975px; display: block;
+}
+div.sub-box > div img {
+	margin: 12px 14px 0px;
+}
+div.sub-box > div img + div {
+	display: inline-block;
+}
+div.sub-box > div span {
+	margin: 10px 0px 0px; color: rgb(153, 153, 153); font-size: 11px; font-weight: bold; display: block;
+}
+div.sub-box > div p {
+	color: rgb(255, 255, 255); font-size: 12px; font-weight: normal;
+}
+div.sub-box > div p strong {
+	color: rgb(255, 255, 255); font-size: 14px; font-weight: bold;
+}
+div.sub-box form {
+	margin: 10px 0px 0px; top: 0px; width: 401px; right: 144px; float: right; position: absolute;
+}
+div.sub-box .close-btn {
+	top: 42%; width: 9px; height: 9px; right: 25px; position: absolute; cursor: pointer;
+}
+div.sub-box > div input {
+	border-radius: 2px; border: 0px currentColor; border-image: none; width: 305px; height: 25px; color: rgb(102, 102, 102); padding-left: 10px; font-size: 12px; font-weight: normal; -moz-border-radius: 2px; -webkit-border-radius: 2px;
+}
+:root div.sub-box > div input.error {
+	height: 25px;
+}
+div.sub-box > div input.error {
+	background: rgb(255, 204, 204); border: 1px solid rgb(187, 0, 0); border-image: none; color: rgb(187, 0, 0);
+}
+div.sub-box > div input:invalid {
+	border: 0px currentColor; border-image: none; box-shadow: none;
+}
+div.sub-box > div button {
+	background: rgb(255, 255, 255); border-radius: 2px; border: 0px currentColor; border-image: none; width: 76px; height: 27px; color: rgb(0, 0, 0); font-size: 11px; font-weight: bold; float: right; -moz-border-radius: 2px; -webkit-border-radius: 2px;
+}
+div.sub-box div.thanks {
+	margin: 18px 0px 0px; float: right;
+}
+div.sub-box div.thanks p {
+	color: rgb(153, 153, 153); font-size: 12px; font-weight: bold;
+}
+.gadsense {
+	padding: 12px 12px 2px; border: 1px solid rgb(204, 204, 204); border-image: none;
+}
+.gadsense .ad_attribution {
+	margin: 0px 0px 0px 12px; display: block;
+}
+.gadsense .encap {
+	margin: 0px 0px 0px -12px;
+}
+.gadsense .encap > div {
+	margin: 0px 0px 12px 12px; width: 203px; vertical-align: top; display: inline-block;
+}
+.gadsense .encap > div a {
+	font-size: 14px; font-weight: bold; text-decoration: underline; display: block;
+}
+.gadsense .encap > div a:first-child {
+	margin: 0px 0px 3px;
+}
+.gadsense .encap > div a:first-child:hover {
+	color: rgb(82, 24, 58);
+}
+.gadsense .encap > div .ad_text {
+	color: rgb(0, 114, 61);
+}
+.gadsense .encap > div .ad_url {
+	color: rgb(0, 114, 61); font-size: 10px; font-weight: normal;
+}
+[id^='flight-tracker'] legend {
+	display: none;
+}
+.flightview-results legend {
+	display: none;
+}
+#airport-conditions legend {
+	display: none;
+}
+[id^='flight-tracker'] label {
+	padding: 0px 0px 3px; font-size: 11px; font-weight: bold; display: block; cursor: default;
+}
+[id^='flight-tracker'] ul {
+	overflow: hidden; font-size: 0px; position: relative;
+}
+[id^='flight-tracker'] li {
+	padding: 0px 0px 10px 10px; vertical-align: top; display: inline-block;
+}
+[id^='flight-tracker'] li:first-child {
+	padding: 0px 0px 10px;
+}
+[id^='flight-tracker'] li:first-child + li + li {
+	padding: 0px 0px 10px;
+}
+[id^='flight-tracker'] li:first-child + li + li + li {
+	padding: 0px 0px 10px;
+}
+[id^='flight-tracker'] li.last {
+	margin: -2px 0px 0px;
+}
+[id^='flight-tracker'] select {
+	border: 1px solid rgb(204, 204, 204); border-image: none; background-color: rgb(255, 255, 255);
+}
+[id^='flight-tracker'] input {
+	border: 1px solid rgb(204, 204, 204); border-image: none; background-color: rgb(255, 255, 255);
+}
+#flight-tracker select {
+	padding: 1px;
+}
+#flight-tracker-by-flight select {
+	padding: 1px;
+}
+#flight-tracker-by-route select {
+	padding: 1px;
+}
+[id^='flight-tracker'] input {
+	padding: 2px; color: rgb(102, 102, 102); font-size: 11px;
+}
+[id^='flight-tracker'] select {
+	padding: 2px; color: rgb(102, 102, 102); font-size: 11px;
+}
+#flight-tracker-by-flight {
+	background: rgb(244, 244, 244); padding: 12px; height: 152px;
+}
+#flight-tracker-by-route {
+	background: rgb(244, 244, 244); padding: 12px; height: 152px;
+}
+[id^='flight-tracker'] .error-message {
+	padding: 0px 12px; color: rgb(187, 0, 0); font-size: 11px;
+}
+#section-content [id^='flight-tracker'] .btn-smll {
+	margin: 19px 0px 0px; padding: 0px; width: 75px; height: 18px; color: rgb(24, 58, 82); font-size: 11px;
+}
+#section-content [id^='flight-tracker'] .btn-smll:hover {
+	color: rgb(41, 93, 129);
+}
+#flight-tracker select.airline {
+	width: 182px;
+}
+#flight-tracker select.date {
+	width: 100px;
+}
+[id^='flight-tracker'] input.airlinecode {
+	width: 97px;
+}
+div#flight-tracker input.airlinecode {
+	width: 82px;
+}
+#flight-tracker input.flightnumber {
+	width: 72px;
+}
+#flight-tracker-by-flight select.airline {
+	width: 183px;
+}
+#flight-tracker-by-flight select.departuredate {
+	width: 211px;
+}
+#flight-tracker-by-route select.departuredate {
+	width: 211px;
+}
+#flight-tracker-by-flight input.flightnumber {
+	width: 294px;
+}
+#flight-tracker-by-route input.flightnumber {
+	width: 294px;
+}
+#flight-tracker-by-route li:first-child + li + li + li {
+	padding: 0px 0px 10px 10px;
+}
+#flight-tracker-by-route li:first-child + li + li + li + li {
+	padding: 0px 0px 10px;
+}
+#flight-tracker-by-route select.departureairport {
+	width: 143px; white-space: nowrap;
+}
+#flight-tracker-by-route select.arrivalairport {
+	width: 143px; white-space: nowrap;
+}
+#flight-tracker-by-route input.departureairportcode {
+	width: 137px;
+}
+#flight-tracker-by-route input.arrivalairportcode {
+	width: 137px;
+}
+[id^='flight-tracker'] .error-message {
+	padding: 0px 0px 8px 12px; display: none;
+}
+[id^='flight-tracker'] .active {
+	display: block;
+}
+[id^='flight-tracker'] .error-message::after {
+	width: 0px; height: 0px; padding-top: 0.01px; clear: both; display: block; content: " ";
+}
+[id^='flight-tracker'] form::after {
+	width: 0px; height: 0px; padding-top: 0.01px; clear: both; display: block; content: " ";
+}
+#track-content-data td.city span {
+	text-transform: capitalize;
+}
+.c-tab-1 #flight-tracker-by-route {
+	background: rgb(255, 255, 255); padding: 0px; height: 100%;
+}
+.c-tab-1 [id^='flight-tracker'] li:first-child + li + li + li {
+	padding: 0px 0px 10px 10px;
+}
+.c-tab-1 #flight-tracker-by-route select.departureairport {
+	width: 147px;
+}
+.c-tab-1 #flight-tracker-by-route select.arrivalairport {
+	width: 147px;
+}
+.c-tab-1 #flight-tracker-by-route select.departuredate {
+	width: 217px;
+}
+.c-tab-1 #flight-tracker-by-route input.departureairportcode {
+	width: 141px;
+}
+.c-tab-1 #flight-tracker-by-route input.arrivalairportcode {
+	width: 141px;
+}
+.c-tab-1 #flight-tracker {
+	padding: 8px 8px 0px; height: 100%;
+}
+.g-13 #flight-tracker-by-route {
+	padding: 8px 8px 0px; height: 100%;
+}
+.c-tab-1 #flight-tracker select.airline {
+	width: 205px;
+}
+.c-tab-1 #flight-tracker input.flightnumber {
+	width: 95px;
+}
+.g-13 #flight-tracker-by-flight {
+	padding: 8px 0px 8px 2px; height: 181px;
+}
+.g-13 #flight-tracker-by-flight select.airline {
+	width: 130px;
+}
+.g-13 #flight-tracker-by-flight input.airlinecode {
+	width: 130px;
+}
+.g-13 #flight-tracker-by-flight input.flightnumber {
+	width: 270px;
+}
+.g-13 #flight-tracker-by-flight select.departuredate {
+	width: 190px;
+}
+.g-13 #flight-tracker-by-route select.departuredate {
+	width: 190px;
+}
+.g-13 #flight-tracker-by-route select.departureairport {
+	width: 133px; white-space: nowrap;
+}
+.g-13 #flight-tracker-by-route select.arrivalairport {
+	width: 133px; white-space: nowrap;
+}
+.g-13 #flight-tracker-by-route input.departureairportcode {
+	width: 127px;
+}
+.g-13 #flight-tracker-by-route input.arrivalairportcode {
+	width: 127px;
+}
+.g-13 #airport-conditions {
+	padding: 0px 0px 8px;
+}
+.g-13 #airport-conditions select {
+	width: 248px;
+}
+.g-13 .ft-track-mod .c-foot {
+	display: none;
+}
+.g-13 #flight-tracker select.airline {
+	width: 180px;
+}
+.g-13 #flight-tracker input.flightnumber {
+	width: 71px;
+}
+.g-13 [id^='flight-tracker'] .btn-smll {
+	margin: 18px 0px 0px;
+}
+#airport-conditions li {
+	display: inline;
+}
+#airport-conditions select {
+	padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none; width: 270px; font-size: 11px; float: left; background-color: rgb(255, 255, 255);
+}
+#airport-conditions .btn-smll {
+	border-width: 1px; margin: 0px 0px 0px 10px; padding: 0px; width: 40px; height: 20px;
+}
+#flight-view h2 {
+	padding: 10px 0px; color: rgb(0, 0, 0); font-size: 16px; font-weight: bold;
+}
+#flight-view h2 span {
+	text-transform: uppercase; font-size: 14px; font-weight: bold;
+}
+#flight-view h2 span.on-time {
+	color: rgb(102, 153, 0);
+}
+#flight-view h2 span.off-time {
+	color: rgb(187, 0, 0);
+}
+#flight-view p {
+	padding: 0px 0px 20px; color: rgb(102, 102, 102);
+}
+.flightview-details tr {
+	width: 660px;
+}
+.flightview-details tr.last td {
+	padding: 0px 0px 10px; border-bottom-color: currentColor; border-bottom-width: 0px; border-bottom-style: none;
+}
+.flightview-details th {
+	padding: 0px 0px 10px; text-align: left; color: rgb(102, 102, 102); font-size: 11px; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.flightview-details th.first {
+	width: 200px;
+}
+.flightview-details td.first {
+	width: 200px;
+}
+.flightview-details td {
+	padding: 10px 0px 8px; text-align: left; color: rgb(0, 0, 0); font-size: 14px; vertical-align: baseline; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.flightview-details td.city {
+	width: 200px; color: rgb(0, 78, 118); font-size: 16px;
+}
+.flightview-details td.last {
+	width: 124px;
+}
+.flightview-details th {
+	width: 135px;
+}
+.flightview-details td {
+	width: 135px;
+}
+.flightview-details h2 {
+	padding: 10px 0px; color: rgb(0, 0, 0); font-size: 16px; font-weight: normal;
+}
+.flightview-details legend {
+	display: none;
+}
+#departure-details th.last {
+	width: 217px;
+}
+#departure-details td.last {
+	width: 217px;
+}
+#arrival-details th.last {
+	width: 105px;
+}
+#arrival-details td.last {
+	width: 105px;
+}
+#flight-details th.last {
+	width: 342px;
+}
+#flight-details td.last {
+	width: 342px;
+}
+.flightview-details caption {
+	display: none;
+}
+.flightview-results {
+	height: 420px; -ms-overflow-x: hidden; -ms-overflow-y: auto;
+}
+.flightview-results table {
+	width: 660px; table-layout: fixed;
+}
+.flightview-results tr.alt td {
+	background: rgb(239, 239, 239);
+}
+.flightview-results tr.last td {
+	border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.flightview-results th {
+	padding: 5px 10px; text-align: left; color: rgb(102, 102, 102); font-size: 10px; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.flightview-results th.first {
+	width: 200px;
+}
+.flightview-results td.first {
+	width: 200px;
+}
+.flightview-results td {
+	padding: 8px 10px; text-align: left; color: rgb(0, 0, 0); font-size: 11px; vertical-align: baseline; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: solid; -ms-word-wrap: break-word;
+}
+.flightview-results td.city {
+	width: 121px;
+}
+.flightview-results td.airline {
+	width: 130px;
+}
+.flightview-results td.flight {
+	width: 50px; color: rgb(0, 78, 118); font-weight: bold;
+}
+.flightview-results td.last {
+	width: 83px;
+}
+.flightview-results td.on-time a {
+	color: rgb(102, 153, 0);
+}
+.flightview-results td.off-time a {
+	color: rgb(187, 0, 0);
+}
+.flightview-results th {
+	width: 41px;
+}
+.flightview-results td {
+	width: 41px;
+}
+.flightview-results caption {
+	display: none;
+}
+.flight-results-legend {
+	width: 660px; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: solid; table-layout: fixed;
+}
+.flight-results-legend td {
+	padding: 6px 10px; width: 41px; text-align: left; color: rgb(102, 102, 102); font-size: 10px;
+}
+.flight-results-legend td.first {
+	width: 121px;
+}
+.flight-results-legend td.second {
+	width: 130px;
+}
+.flight-results-legend td.third {
+	width: 50px;
+}
+.flight-results-legend td.last {
+	width: 83px;
+}
+#airport-conditions li {
+	display: inline;
+}
+#airport-conditions select {
+	padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none; width: 270px; font-size: 11px; float: left; background-color: rgb(255, 255, 255);
+}
+#airport-conditions .btn-smll {
+	border-width: 1px; margin: 0px 0px 0px 10px; padding: 0px; width: 40px; height: 20px;
+}
+.airport-information-results .c-item {
+	border: 0px currentColor; border-image: none;
+}
+.airport-information-results .c-item-last {
+	clear: both;
+}
+.airport-information-results #flight-view-map {
+	padding: 10px 0px 0px;
+}
+.back-to-full-list {
+	font-size: 12px; float: right;
+}
+.flightmap-arrivals {
+	padding: 10px 0px 0px; vertical-align: middle; float: left;
+}
+.flightmap-departures {
+	padding: 10px 0px 0px; vertical-align: middle; float: left;
+}
+.flightmap-arrivals input {
+	vertical-align: middle;
+}
+.flightmap-departures input {
+	vertical-align: middle;
+}
+.flightmap-arrivals label {
+	padding: 0px 20px 0px 0px; line-height: 14px; vertical-align: middle;
+}
+.flightmap-departures label {
+	padding: 0px 20px 0px 0px; line-height: 14px; vertical-align: middle;
+}
+.flightmap-arrivals {
+	padding: 0px 0px 0px 5px;
+}
+.flightmap-arrivals label {
+	background: url("https://www.cte-auto.net/static/v/fb2/img/site/bg-icon-7.gif") no-repeat right -13px;
+}
+.flightmap-departures {
+	padding: 0px 0px 0px 20px;
+}
+.flightmap-departures label {
+	background: url("https://www.cte-auto.net/static/v/fb2/img/site/bg-icon-7.gif") no-repeat right 1px;
+}
+#air-traffic-map {
+	padding: 10px 0px 0px 10px;
+}
+#connecting-details td {
+	font-size: 12px;
+}
+#direct-details td {
+	font-size: 12px;
+}
+#connecting-details td {
+	width: 90px;
+}
+#connecting-details th {
+	width: 90px;
+}
+#direct-details td {
+	width: 90px;
+}
+#direct-details th {
+	width: 90px;
+}
+#connecting-details td.first {
+	width: 135px;
+}
+#connecting-details th.first {
+	width: 135px;
+}
+#connecting-details td.city {
+	width: 220px;
+}
+#connecting-details th.city {
+	width: 220px;
+}
+#connecting-details td.city {
+	color: rgb(0, 0, 0);
+}
+#connecting-details td.updated {
+	color: rgb(102, 102, 102);
+}
+#direct-details td.updated {
+	color: rgb(102, 102, 102);
+}
+#direct-details td.airline {
+	width: 160px;
+}
+#direct-details td.time {
+	width: 185px;
+}
+#direct-details td.on-time a {
+	color: rgb(102, 153, 0); text-decoration: underline;
+}
+#direct-details td.off-time a {
+	color: rgb(187, 0, 0); text-decoration: underline;
+}
+.outbrain-ct.dv-item {
+	padding: 0px;
+}
+.pinify-teaser {
+	color: rgb(51, 51, 51); font-family: Arial,sans-serif; font-size: 17px;
+}
+.pinify-closePin {
+	background: url("https://www.cte-auto.net/static/v/fn2/img/ie9/close.png") no-repeat 0px 0px; top: 5px; width: 18px; height: 18px; right: 5px; display: inline; position: absolute; cursor: pointer;
+}
+.pinify-mainText {
+	padding: 6px 0px 0px 150px; font-size: 19px; vertical-align: middle; display: block;
+}
+.pinify-mainText a {
+	color: rgb(0, 0, 0);
+}
+.pinify-addSiteLnk {
+	text-decoration: none;
+}
+.pinify-hanging-container {
+	padding: 5px; border-radius: 0px 0px 10px 10px; left: 80px; top: 0px; width: 350px; height: 20px; position: fixed; z-index: 100000;
+}
+.pinify-hanging-content {
+	padding: 5px; border-radius: 10px; left: 80px; top: 30px; width: 280px; height: 15px; position: fixed;
+}
+.pinify-hanging-container > img.msPinSite {
+	margin: 0px 5px 0px 0px; width: 20px; height: 20px; vertical-align: top; float: left;
+}
+.pinify-topHat-container {
+	background: url("https://www.cte-auto.net/static/v/fn2/img/ie9/toolbar-bg.png") repeat-x 0px 0px; margin: -8px 0px 0px -8px; width: 110%; height: 37px; text-align: center; color: rgb(0, 0, 0); font-family: Arial,sans-serif; font-size: 15px; font-weight: bold; vertical-align: middle; display: block;
+}
+.pinify-topHat-alignment {
+	background: url("https://www.cte-auto.net/static/v/fn2/img/ie9/arrow.png") no-repeat right; margin: 0px auto; padding: 8px 0px 0px; width: 650px; display: block;
+}
+.pinify-topHat-content {
+	margin: 5px 0px 0px; height: 30px; vertical-align: middle;
+}
+.pinify-topHat-content #pinify-topHat-logo {
+	display: none;
+}
+.pinify-topHat-content .pinify-topHat-text {
+	padding: 2px 0px 0px; text-align: center; vertical-align: middle; float: left;
+}
+#pinify-topHat-logo {
+	width: 20px; height: 20px;
+}
+.add-links {
+	overflow: hidden;
+}
+.add-links h2.title {
+	border-width: 0px 0px 1px; border-style: solid; border-color: rgb(204, 204, 204); margin: 8px 0px 12px; border-image: none;
+}
+.add-links img {
+	margin: 0px 0px 10px;
+}
+.add-links .dv-list ul.list-obj li {
+	padding: 0px 0px 8px 10px;
+}
+.ureport-pad {
+	margin: 0px 0px 15px; float: left;
+}
+div#PDI_container28822 div.pds-box {
+	width: 180px !important;
+}
+div#PDI_container28822 span.pds-answer-input {
+	margin: 2px 0px 0px;
+}
+div#PDI_container28822 a.pds-vote-button {
+	padding: 0px 28px 0px 24px;
+}
+div#PDI_container28822 label.pds-input-label {
+	padding: 0px;
+}
+div#PDI_container28822 .pds-feedback-result {
+	font: bold 12px/normal arial; color: rgb(187, 34, 34); font-size-adjust: none; font-stretch: normal;
+}
+div#PDI_container28822 .pds-feedback-result span {
+	padding: 10px 0px 0px; float: right;
+}
+div#PDI_container28822 .pds-feedback-votes {
+	display: none;
+}
+div#PDI_container28822 .pds-feedback-label {
+	padding: 0px;
+}
+div#PDI_container28822 .pds-answer-feedback {
+	margin: 3px 0px 0px;
+}
+div#PDI_container28822 .pds-feedback-group {
+	padding: 12px 0px 0px;
+}
+#pres-poll .dv-encap > li {
+	background: url("https://www.cte-auto.net/static/v/fn2/img/bg-poll.jpg") no-repeat 0px 15px; margin: 0px 0px 15px; padding: 13px 0px 0px; font-size: 11px; font-weight: bold; border-top-color: rgb(204, 204, 204); border-top-width: 1px; border-top-style: solid; min-height: 26px;
+}
+#pres-poll .dv-encap > li.dv-item-first {
+	border-top-color: currentColor; border-top-width: 0px; border-top-style: none;
+}
+#pres-poll .dv-encap > li a {
+	padding: 0px 0px 0px 36px; display: inline-block;
+}
+#pres-poll .show-more {
+	padding: 5px 0px 0px; width: 100%; height: 24px; text-align: right; overflow: hidden; border-top-color: rgb(204, 204, 204); border-top-width: 1px; border-top-style: solid;
+}
+#pres-poll .show-more a {
+	font: bold 11px/normal arial; font-size-adjust: none; font-stretch: normal;
+}
+#pres-poll .show-more a span {
+	color: rgb(187, 0, 0);
+}
+.slideshow-mod-2013 {
+	margin: 0px 0px 10px !important; padding: 0px; border: 0px currentColor; border-image: none; width: 100%; overflow: hidden;
+}
+.slideshow-mod-2013 .section-mod {
+	background: 0px; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; -moz-box-shadow: 0; -webkit-box-shadow: 0;
+}
+.slideshow-target ol.sectioning {
+	margin: -34px 0px 0px; padding: 8px 0px 0px; text-align: center; overflow: hidden;
+}
+.slideshow-target ol.sectioning li {
+	background: url("https://www.cte-auto.net/static/v/all/img/weather/weather-circle.gif") no-repeat; margin: 0px 0px 0px 5px; width: 10px; height: 10px; overflow: hidden; display: inline-block;
+}
+.slideshow-target ol.sectioning li:first-child {
+	margin: 0px;
+}
+.slideshow-target ol.sectioning li.active {
+	background-position: 0px -10px;
+}
+.slideshow-target ol.sectioning li a {
+	width: 100%; height: 100%; display: block;
+}
+.c-var-18.slideshow-target .c-item-first p.controls {
+	width: 100%; position: relative;
+}
+.slideshow-target .controls .prev {
+	background: url("https://www.cte-auto.net/static/v/all/img/weather/weather-arrows.gif") no-repeat; top: -18px; width: 15px; height: 15px; text-indent: -9999px; position: absolute;
+}
+.slideshow-target .controls .next {
+	background: url("https://www.cte-auto.net/static/v/all/img/weather/weather-arrows.gif") no-repeat; top: -18px; width: 15px; height: 15px; text-indent: -9999px; position: absolute;
+}
+.slideshow-target .controls .prev {
+	background-position: 0px -15px; right: 20px;
+}
+.slideshow-target .controls .inactive.prev {
+	background-position: 0px 0px;
+}
+.slideshow-target .controls .prev:hover {
+	background-position: 0px 0px;
+}
+.slideshow-target .controls .next {
+	background-position: -15px -15px; right: 0px;
+}
+.slideshow-target .controls .inactive.next {
+	background-position: -15px 0px; right: 0px;
+}
+.slideshow-target .controls .next:hover {
+	background-position: -15px 0px; right: 0px;
+}
+.slideshow-mod-2013 .slideshow {
+	margin: 0px auto; padding: 8px 0px; width: 100%; overflow: hidden;
+}
+.slideshow-mod-2013 ul {
+	margin-right: -9999px; float: left;
+}
+.slideshow-mod-2013 ul li {
+	margin: 0px 12px 0px 0px; width: 156px; float: left; position: relative;
+}
+.slideshow-mod-2013 ul li > a {
+	height: 88px; float: left;
+}
+.slideshow-mod-2013 ul li p {
+	font-size: 10px; font-weight: normal;
+}
+.slideshow-mod-2013 div.controls {
+	position: relative;
+}
+.c-var-18.slideshow-target .c-item-first a.media-credit {
+	background: rgba(0, 0, 0, 0.8); font: italic 11px/normal arial; margin: 0px; padding: 6px 7px 7px; left: 0px; width: 142px; height: auto; bottom: 0px; color: rgb(255, 255, 255); float: left; position: absolute; font-size-adjust: none; font-stretch: normal;
+}
+.c-var-18.slideshow-target .c-item-first a.media-credit:hover {
+	background: rgb(0, 0, 0); text-decoration: none;
+}
+.c-var-18.slideshow-target .c-item-first .m:hover + a.media-credit {
+	background: rgb(0, 0, 0); text-decoration: none;
+}
+.c-var-18.slideshow-target .c-item-first a.media-credit {
+	
+}
+@media 
+{
+.c-var-18.slideshow-target .c-item-first a.media-credit {
+	background: url("https://www.cte-auto.net/static/v/all/img/overlay-override.png");
+}
+}
+* html .slideshow-target ol.sectioning li {
+	display: inline; -ms-zoom: 1;
+}
+* + html .slideshow-target ol.sectioning li {
+	display: inline; -ms-zoom: 1;
+}
+.newsletter-module-2013 img {
+	margin: 0px 14px 0px 0px; float: left;
+}
+.newsletter-module-2013 p {
+	margin-left: 74px;
+}
+.newsletter-module-2013 p.error {
+	margin: 5px 0px 0px;
+}
+.newsletter-module-2013 input#signupEmail {
+	border-width: 1px; border-style: solid; border-color: rgb(153, 153, 153) rgb(204, 204, 204) rgb(204, 204, 204); margin: 0px 5px 0px 0px; padding: 5px; border-radius: 2px; border-image: none; width: 228px; height: 12px; color: rgb(102, 102, 102); font-size: 11px; -moz-border-radius: 2px; -webkit-border-radius: 2px;
+}
+.newsletter-module-2013 fieldset {
+	margin: 12px 0px 0px; float: left;
+}
+.newsletter-module-2013 .btn-smll {
+	width: 75px;
+}
+.bank-rate-mod .c-nav {
+	padding-left: 8px; border-bottom-color: currentColor; border-bottom-width: 0px; border-bottom-style: none;
+}
+.bank-rate-mod .c-nav {
+	
+}
+.bank-rate-mod .c-nav {
+	
+}
+.bank-rate-mod .c-nav li {
+	
+}
+.bank-rate-mod .c-nav .active {
+	
+}
+div.bank-rate-mod .c-nav li a {
+	padding: 8px 10px;
+}
+.bank-rate-mod .c-nav li a {
+	padding: 8px 10px; font-size: 11px;
+}
+.bank-rate-mod .c-nav .active a {
+	padding: 11px 7px;
+}
+div.bank-rate-mod .c-body {
+	padding: 5px 0px;
+}
+.bank-rate-mod .c-body {
+	padding: 5px 0px;
+}
+.tickerdata table {
+	width: 100%; text-align: left; color: rgb(51, 51, 51);
+}
+.tickerdata table th {
+	color: rgb(102, 102, 102);
+}
+.tickerdata table td {
+	color: rgb(102, 102, 102);
+}
+.tickerdata label {
+	color: rgb(102, 102, 102);
+}
+.tickerdata input {
+	color: rgb(102, 102, 102);
+}
+.tickerdata .dropdown {
+	color: rgb(102, 102, 102);
+}
+#section-content .tickerdata .dropdown-ul li a {
+	color: rgb(102, 102, 102);
+}
+.tickerdata table th {
+	border-width: 1px 0px 1px 1px; padding: 8px 5px; text-align: center; font-size: 11px; font-weight: normal; vertical-align: middle; border-bottom-color: rgb(204, 204, 204); border-bottom-style: solid;
+}
+.tickerdata table td {
+	border-width: 1px 0px 1px 1px; padding: 8px 5px; text-align: center; font-size: 11px; font-weight: normal; vertical-align: middle; border-bottom-color: rgb(204, 204, 204); border-bottom-style: solid;
+}
+.tickerdata table .first {
+	text-align: left; padding-left: 19px;
+}
+.tickerdata table .week {
+	background: 0px; width: 65px; color: rgb(0, 0, 0); padding-right: 10px;
+}
+.tickerdata table .week a {
+	background: url("https://www.cte-auto.net/static/v/fb2/img/bg-btn-1.png") no-repeat 0px 0px; width: 15px; height: 15px; margin-left: -4px; float: right; display: block;
+}
+.tickerdata table th.week {
+	background: 0px;
+}
+.tickerdata table .increase {
+	color: rgb(102, 153, 0);
+}
+.tickerdata table .decrease {
+	color: rgb(187, 0, 0);
+}
+.tickerdata table td a {
+	color: rgb(24, 58, 82); font-size: 14px;
+}
+.tickerdata table td a:hover {
+	text-decoration: underline;
+}
+.tickerdata table tr.grey {
+	background: rgb(238, 238, 238);
+}
+.tickerdata table tr.grey td {
+	background: rgb(238, 238, 238);
+}
+.tickerdata table tr.grey th {
+	background: rgb(238, 238, 238);
+}
+.tickerdata p {
+	text-align: right; color: rgb(0, 0, 0); font-size: 0.7em;
+}
+.tickerdata .bottom {
+	background: rgb(244, 244, 244); padding: 12px 19px; clear: both; -ms-zoom: 1;
+}
+.tickerdata .bottom::after {
+	height: 0px; padding-top: 0.01px; clear: both; font-size: 0px; display: block; content: " ";
+}
+.tickerdata form {
+	margin: 0px; padding: 0px;
+}
+.tickerdata label {
+	padding: 0px 0px 5px; font-size: 10px; font-weight: bold; margin-right: 10px; display: block;
+}
+.tickerdata input {
+	margin: 0px; width: 90px; float: left;
+}
+#section-content .tickerdata .btn-smll {
+	margin: 0px 4px; padding: 4px 10px; border-radius: 3px; width: 75px; color: rgb(0, 0, 0); float: left; box-shadow: none; -moz-box-shadow: none; -webkit-box-shadow: none; -moz-border-radius: 3px; -webkit-border-radius: 3px;
+}
+#section-content .tickerdata #search_form_cd .btn-smll {
+	margin: 5px 7px 0px;
+}
+.c-item-last .tickerdata input {
+	width: 90px; margin-right: 100px;
+}
+.c-item-last .tickerdata select {
+	margin: 0px 3px; padding: 2px; border: 1px solid rgb(204, 204, 204); border-image: none;
+}
+.tickerdata #rate-dropdown {
+	margin: 5px 5px 0px 0px; width: 135px; float: left; display: inline; position: relative; -ms-zoom: 1;
+}
+.tickerdata #rate-dropdown::after {
+	height: 0px; padding-top: 0.01px; clear: both; font-size: 0px; display: block; content: " ";
+}
+.tickerdata #dropdown-1 {
+	display: none;
+}
+.tickerdata .dropdown {
+	background: url("https://www.cte-auto.net/static/v/fb2/img/bg-btn-6.gif") no-repeat 100% 0px; padding: 3px 0px 0px 5px; border: 1px solid rgb(204, 204, 204); border-image: none; width: 135px; height: 17px; text-indent: 4px; font-size: 11px; cursor: pointer;
+}
+.tickerdata ul.dropdown-ul {
+	background: rgb(255, 255, 255); border-width: 0px 1px 1px; border-style: solid; border-color: rgb(204, 204, 204); border-image: none; left: 0px; top: 20px; width: 140px; display: none; position: absolute; z-index: 999;
+}
+.tickerdata ul.dropdown-ul li {
+	background: 0px; margin: 0px; padding: 0px;
+}
+#section-content .tickerdata .dropdown-ul li a {
+	background: rgb(255, 255, 255); margin: 0px; padding: 5px 10px; border: 0px currentColor; border-image: none; font-size: 11px; text-decoration: none; display: block;
+}
+.tickerdata ul.dropdown-ul li a:hover {
+	background: rgb(65, 4, 0); color: rgb(255, 255, 255); text-decoration: none;
+}
+.ticker-data #selected-val {
+	top: 2px; position: absolute;
+}
+#section-content .bank-rates .tickerdata input {
+	width: 190px;
+}
+#section-content .bank-rates .tickerdata .btn-smll {
+	margin: 0px 0px 0px 4px;
+}
+.bank-rates .tickerdata table td {
+	font-size: 14px;
+}
+#section-head #uo-data {
+	position: relative;
+}
+#section-head #uo-data #fn-radio-live {
+	top: 40px; position: absolute;
+}
+#section-head #uo-data #fn-radio-live a {
+	background: url("https://www.cte-auto.net/static/v/all/img/head/microphone.png") no-repeat; font: bold 11px/normal arial; margin: 0px; padding: 3px 0px 0px 18px; height: 17px; color: rgb(24, 58, 82); float: left; display: block; font-size-adjust: none; font-stretch: normal;
+}
+#section-head #uo-data #fn-radio-live span {
+	margin: 2px 0px 0px 5px; color: rgb(187, 0, 0); float: left; display: block;
+}
+.OUTBRAIN .HPP .strip-rec-link-title:hover {
+	text-decoration: underline;
+}
+.OUTBRAIN .HPP .strip-rec-link-source {
+	font: italic 11px/normal arial; color: rgb(148, 170, 186); font-size-adjust: none; font-stretch: normal;
+}
+.c-hrz-last-override div.dv-feature-35 .dv-item-last {
+	width: 150px !important;
+}
+.c-hrz-last-override .dv-item-last {
+	width: 150px !important;
+}
+.m-11 .dv-feature-35 .m {
+	width: 150px;
+}
+div.rr-partner-link {
+	margin: 0px 0px 16px; overflow: hidden; position: relative;
+}
+.rr-partner-link .c-item {
+	border-width: 0px 1px; border-style: solid; border-color: rgb(204, 204, 204); margin: 0px; padding: 0px 0px 14px; border-image: none;
+}
+.rr-partner-link .c-item-first {
+	border-width: 1px 1px 0px; border-style: solid; border-color: rgb(204, 204, 204); margin: 0px; padding: 0px; border-image: none;
+}
+.rr-partner-link .c-item-last {
+	border-width: 0px 1px 1px; border-style: solid; border-color: rgb(204, 204, 204); margin: 0px; padding: 0px 12px 8px; border-image: none;
+}
+.rr-partner-link .c-item-last .dv-list {
+	padding: 12px 0px 0px; border-top-color: rgb(204, 204, 204); border-top-width: 1px; border-top-style: solid;
+}
+.rr-partner-link .dv-list-5 .dv-item {
+	background: url("https://www.cte-auto.net/static/v/fn2/img/red-bullet.gif") no-repeat 0px 5px; margin: 0px 0px 10px; padding: 0px 0px 0px 10px; border: 0px currentColor; border-image: none; font-size: 11px; font-weight: bold;
+}
+.rr-partner-link .dv-list-5 .dv-item .source {
+	font: italic 11px/normal arial; padding: 0px 0px 0px 2px; color: rgb(153, 153, 153); display: inline; font-size-adjust: none; font-stretch: normal;
+}
+.rr-partner-link .dv-list-5 .dv-item h3 {
+	display: inline;
+}
+.rr-partner-link .dv-list-5 .dv-item-last {
+	border: 0px currentColor; border-image: none;
+}
+.rr-partner-link .dv-feature-12 {
+	border: 0px currentColor; border-image: none;
+}
+.rr-partner-link .dv-feature-12 div.m {
+	border-width: 0px 0px 2px; border-style: solid; border-color: rgb(187, 0, 0); border-image: none;
+}
+.rr-partner-link .dv-feature-12 .dv-item h3 {
+	margin: 0px; padding: 8px 12px 0px; display: block;
+}
+.rr-partner-link .dv-feature-12 .dv-item .source {
+	font: italic 12px/normal arial; padding: 8px 12px 14px; color: rgb(153, 153, 153); float: left; font-size-adjust: none; font-stretch: normal;
+}
+#section-content div.c-var-51 .c-item h3 {
+	color: rgb(0, 0, 0);
+}
+#section-content div.c-var-51 .c-item .social-links {
+	margin: 0px 0px 12px;
+}
+#section-content div.c-var-51 .c-item .summary a {
+	text-decoration: underline;
+}
+#section-content div.c-var-51 .c-item .summary a:hover {
+	text-decoration: none;
+}
+#section-content div.c-var-51 .more {
+	padding: 12px 0px;
+}
+#section-content div.c-var-51 .more a {
+	text-decoration: underline;
+}
+#section-content div.c-var-51 .more a:hover {
+	text-decoration: none;
+}
+#outbrain_widget_0 .ob_org_header {
+	color: rgb(0, 0, 0); text-transform: uppercase; font-size: 13px; font-weight: bold;
+}
+#outbrain_widget_0 .SF_1 .strip-rec-link-title {
+	color: rgb(24, 58, 82); font-size: 12px !important; font-weight: bold !important;
+}
+#outbrain_widget_0 .SF_1 .strip-rec-link-title:hover {
+	text-decoration: underline;
+}
+#outbrain_widget_0 .SF_1 .ob_container {
+	margin: 12px 0px 0px 4px;
+}
+#outbrain_widget_0 .SF_1 .item-container {
+	width: 144px !important; margin-right: 4px; vertical-align: top; display: inline-block;
+}
+#outbrain_widget_0 .SF_1 .ob-text-content {
+	padding-left: 0px !important;
+}
+#outbrain_widget_0 .SF_1 .strip-img {
+	width: 144px !important; height: 80px !important;
+}
+#outbrain_widget_0 .SF_1 .ob-rec-link-img {
+	margin-bottom: 6px;
+}
+div div.entertain-411.connect.c {
+	margin: 0px 0px 16px; font-family: Open Sans,Arial;
+}
+.entertain-411 form#newsletter_form .note-reg {
+	margin-top: -12px;
+}
+.entertain-411.connect.c > .c-item-last.c-item-first.c-item {
+	background: url("https://www.cte-auto.net/static/v/fn2/img/bg-entertainment-newsletter.png") no-repeat 0px 20px; margin: 0px; padding: 0px; border-top-color: currentColor; border-top-width: 0px; border-top-style: none;
+}
+.entertain-411.connect > div {
+	padding: 13px 0px 9px 21px;
+}
+.entertain-411.connect > div > div p {
+	padding: 0px 8px 0px 10px; font-size: 11px; display: inline;
+}
+.entertain-411.connect form input[type='text'] {
+	margin: 0px; padding: 0px 5px; border-radius: 0px; border: 1px solid rgb(204, 204, 204); border-image: none; width: 142px; height: 31px; font-family: Open Sans,Arial; -webkit-border-radius: 0;
+}
+.entertain-411.connect form input[type='submit'] {
+	background: rgb(147, 11, 15); padding: 0px 8px; border: 0px currentColor; border-image: none; height: 33px; color: white; box-shadow: none; webkit-box-shadow: none;
+}
+.entertain-411.connect form {
+	margin: 0px auto; padding: 11px 0px 0px; width: 244px; float: none;
+}
+.entertain-411.connect form .note-reg {
+	margin: 0px auto 13px; padding: 6px 0px; border: 1px solid rgb(197, 213, 166); border-image: none; width: 232px; text-align: center; color: rgb(100, 153, 0); font-size: 12px; font-style: normal; float: none; display: block; background-color: rgb(240, 250, 225);
+}
+.entertain-411.connect form + div {
+	width: 100%;
+}
+.entertain-411 .ent-header {
+	padding: 12px 0px 8px 25px; border: 0px currentColor; border-image: none; background-color: rgb(158, 11, 15);
+}
+.entertain-411 p:nth-child(2) {
+	color: rgb(153, 153, 153); font-weight: lighter;
+}
+.more span {
+	padding-left: 0px;
+}
+.ent-header h2 {
+	padding: 0px 0px 0px 6px; color: white; vertical-align: 33%; display: inline;
+}
+.ent-social {
+	padding: 0px 0px 0px 14px; vertical-align: 20%; display: inline;
+}
+.ent-social a:nth-child(2) img {
+	padding-left: 5px;
+}
+.fox-411.headlines {
+	padding: 17px;
+}
+.fox-411.headlines h2 {
+	text-align: center; color: rgb(158, 11, 15); letter-spacing: -0.01em; font-size: 14px; font-weight: 600; margin-bottom: 3px;
+}
+.fox-411.headlines h3 {
+	margin: 0px 0px 11px; text-align: center; color: rgb(153, 153, 153); letter-spacing: -0.06em; font-size: 14px; font-weight: lighter;
+}
+html > body .fox-411.headlines h2 {
+	letter-spacing: -0.04em; font-size: 15px;
+}
+div#section-footer-1 {
+	z-index: 0;
+}
+.slideshow-desc > p:first-child {
+	display: none;
+}
+.podcast.c .m img {
+	margin: 0px 12px 0px 0px; float: left; display: block;
+}
+.podcast.c .m h4 {
+	margin: 0px 0px 12px; font-size: 14px;
+}
+.podcast.c .m > a {
+	float: right;
+}
+.books.c .m > div {
+	margin: 0px 0px 24px; overflow: hidden;
+}
+.books.c .m > div img {
+	margin: 0px 12px 0px 0px; float: left;
+}
+.books.c .m > div > div {
+	width: 196px; float: left;
+}
+.books.c .m > div h4 {
+	margin: 0px 0px 16px; font-size: 14px;
+}
+.books.c .m > div p {
+	margin: 0px 0px 12px; padding: 0px 0px 4px; color: rgb(153, 153, 153); text-transform: uppercase; border-bottom-color: rgb(153, 153, 153); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.books.c .m > div li {
+	margin: 0px 0px 4px;
+}
+.books.c .m > div li a {
+	font-weight: bold;
+}

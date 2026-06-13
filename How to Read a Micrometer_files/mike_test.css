@@ -1,0 +1,63 @@
+body {
+	background-color: rgb(204, 241, 241);
+}
+h1 {
+	margin: 0px; padding: 10px; text-indent: 0em; font-size: 160%;
+}
+h2 {
+	margin: 0px; padding: 10px; text-align: center; text-indent: 0em; font-size: 140%;
+}
+h3 {
+	margin: 0px; padding: 10px; text-align: center; text-indent: 0em; font-size: 125%;
+}
+h4 {
+	margin: 0px; padding: 10px; text-align: right; text-indent: 0em;
+}
+h5 {
+	margin: 0px; padding: 10px; text-align: center; text-indent: 0em; font-size: 80%;
+}
+h6 {
+	margin: 0px; padding: 10px; text-align: center; color: rgb(0, 0, 255); text-indent: 0em; font-size: 125%;
+}
+a:link {
+	color: rgb(0, 0, 255);
+}
+a:hover {
+	color: rgb(153, 102, 153);
+}
+a:active {
+	color: rgb(241, 241, 241);
+}
+a:visited {
+	color: rgb(153, 102, 153);
+}
+.foot {
+	padding: 1.5em; text-align: center; line-height: 2.2em; font-family: Arial, New York, Verdana, Helvetica, Arial, sans-serif; font-size: 0.9em; background-color: rgb(255, 251, 241);
+}
+.text {
+	margin: 0px 0px 0px 20%; padding: 1.5em; line-height: 2.2em; text-indent: 1.5em; font-family: Arial, New York, Verdana, Helvetica, Arial, sans-serif; font-size: 1.1em; background-color: rgb(255, 251, 241);
+}
+.metaphor {
+	background-position: center; margin: 0px 0px 0px 20%; padding: 1.5em; line-height: 2.2em; text-indent: 1.5em; font-family: Arial, New York, Verdana, Helvetica, Arial, sans-serif; font-size: 1.1em; background-image: url("https://www.cte-auto.net/How%20to%20Read%20a%20Micrometer_files/cook.gif"); background-repeat: no-repeat; background-color: rgb(255, 251, 241);
+}
+.cap {
+	padding: 1.5em; line-height: 150%; font-family: Arial, New York, Verdana, Helvetica, Arial, sans-serif; font-size: 1.1em; background-color: rgb(255, 251, 241);
+}
+.reference {
+	margin: 0px 0px 0px 20%; padding: 1.5em; line-height: 150%; text-indent: -1.5em; font-family: Arial, New York, Verdana, Helvetica, Arial, sans-serif; font-size: 1.1em; background-color: rgb(255, 251, 241);
+}
+.resume {
+	margin: 0px 0px 0px 20%; padding: 1.1em; line-height: 110%; font-family: Arial, New York, Verdana, Helvetica, Arial, sans-serif; font-size: 0.9em; background-color: rgb(255, 251, 241);
+}
+.shade {
+	border-style: double; padding: 10px; background-color: rgb(239, 239, 239);
+}
+.title {
+	margin: 0px; padding: 10px; text-align: left; font-size: 125%;
+}
+.sidecol {
+	margin: 0px; padding: 0px 0px 50%; left: 1em; top: 0px; width: 15%; font-size: 0.9em; position: absolute; z-index: 5;
+}
+.center {
+	margin: 0px; padding: 0px; text-align: center; line-height: 150%; font-family: Arial, New York, Verdana, Helvetica, Arial, sans-serif; font-size: 1.1em; background-color: rgb(255, 251, 241);
+}
